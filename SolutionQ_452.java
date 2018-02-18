@@ -31,8 +31,8 @@ public class SolutionQ_452 {
 				if(before.next==null)
 					break;
 				before.next = before.next.next;
-				if (before.next == null)
-					break;
+//				if (before.next == null)
+//					break;
 			}
 		}
 
