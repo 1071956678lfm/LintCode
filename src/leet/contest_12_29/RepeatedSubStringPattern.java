@@ -1,6 +1,5 @@
 package leet.contest_12_29;
 
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -16,7 +15,7 @@ public class RepeatedSubStringPattern {
      * Output: True
      * Explanation: It's the substring "ab" twice.
      */
-    public boolean repeatedSubstringPattern(String s) {
+    private boolean repeatedSubstringPattern(String s) {
         List<Integer> factors = getPrimeFactor(s.length());
         for (int size : factors) {
             String sub = s.substring(0, size);
@@ -26,7 +25,8 @@ public class RepeatedSubStringPattern {
         return false;
     }
 
-    public List<Integer> getPrimeFactor(int val) {
+
+    private List<Integer> getPrimeFactor(int val) {
         if (val <= 0)
             return null;
         List<Integer> result = new LinkedList<>();
@@ -37,17 +37,7 @@ public class RepeatedSubStringPattern {
         return result;
     }
 
-    private boolean isPrime(int val) {
-        if (val <= 2) return true;
-        for (int i = 2; i < Math.sqrt(val); i++) {
-            if (val % i == 0)
-                return false;
-        }
-        return true;
-    }
-
     public static void main(String[] args) {
-//        System.out.println(new RepeatedSubStringPattern().getPrimeFactor(4));
         System.out.println(new RepeatedSubStringPattern().repeatedSubstringPattern("abacababacab"));
     }
 
