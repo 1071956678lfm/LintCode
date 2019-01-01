@@ -32,7 +32,7 @@ package leet.rangeAddition;
  * <p>
  * So the maximum integer in M is 2, and there are four of it in M. So return 4.
  */
-public class Solution {
+public class MaxCount {
     public int maxCount(int m, int n, int[][] ops) {
         int rowMin = m, colMin = n;
         for (int[] op : ops) {

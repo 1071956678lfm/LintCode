@@ -57,21 +57,20 @@ public class RabbitsInForest {
     public int numRabbits(int[] answers) {
         Map<Integer, Integer> map = new HashMap<>();
         int result = 0;
-        for (int i = 0; i < answers.length; ++i)
-            map.put(answers[i], map.getOrDefault(answers[i], 0) + 1);
+        for (int answer : answers) map.put(answer, map.getOrDefault(answer, 0) + 1);
         result += map.getOrDefault(0, 0); //ad the zero value
         map.remove(0);
         for (int color : map.keySet()) {
             int base = color + 1;
-            double otherSize = map.get(color);
-            double num=Math.ceil(otherSize/base);
-            result += num*base;
+            int otherSize = map.get(color);
+            int k = otherSize % base == 0 ? otherSize / base : otherSize / base + 1;
+            result += base * k;
         }
         return result;
     }
 
     public static void main(String[] args) {
-        int[] nums = {3,3,3,3,3};
+        int[] nums = {1, 1, 1, 1, 1};
         System.out.println(new RabbitsInForest().numRabbits(nums));
     }
 }
