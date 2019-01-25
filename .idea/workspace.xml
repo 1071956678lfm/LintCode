@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1e42e255-d9e7-4285-96fa-a0604f51bff3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Sum/EscapeGhosts.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Sum/InsertIntoBST.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Sum/IsSubSequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Sum/ShortestPathToKeys.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Sum/test.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Sum/WordPattern.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Vacation2019_1/IntegerToEnglish.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Vacation2019_1/NestedIterator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Vacation2019_1/NonOverlappingIntervals.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Vacation2019_1/UniqueBST2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/contest/contest_1_25/BitWise.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/contest/contest_1_25/IncreOrderST.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/contest/contest_1_25/MonotonicArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/contest/contest_1_25/OrdelyQueue.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/LintCode/leet/Sum/IsSubSequence.class" afterPath="$PROJECT_DIR$/out/production/LintCode/leet/Sum/IsSubSequence.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/LintCode/leet/contest_12_29/Assign_cookies.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/LintCode/leet/contest_12_29/FourSum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/LintCode/leet/contest_12_29/Pattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/LintCode/leet/contest_12_29/RepeatedSubStringPattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/leet/Sum/EscapeGhosts.java" afterPath="$PROJECT_DIR$/src/leet/Sum/EscapeGhosts.java" />
+      <change beforePath="$PROJECT_DIR$/src/leet/contest_12_29/Assign_cookies.java" afterPath="$PROJECT_DIR$/src/leet/contest/contest_12_29/Assign_cookies.java" />
+      <change beforePath="$PROJECT_DIR$/src/leet/contest_12_29/FourSum.java" afterPath="$PROJECT_DIR$/src/leet/contest/contest_12_29/FourSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/leet/contest_12_29/Pattern.java" afterPath="$PROJECT_DIR$/src/leet/contest/contest_12_29/Pattern.java" />
+      <change beforePath="$PROJECT_DIR$/src/leet/contest_12_29/RepeatedSubStringPattern.java" afterPath="$PROJECT_DIR$/src/leet/contest/contest_12_29/RepeatedSubStringPattern.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +35,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LintCode$NumMatrix.coverage" NAME="NumMatrix Coverage Results" MODIFIED="1546140258727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leet.NumMatrix_304.*</FILTER>
@@ -24,12 +45,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="EscapeGhosts.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leet/Sum/EscapeGhosts.java">
+      <file leaf-file-name="NonOverlappingIntervals.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leet/Vacation2019_1/NonOverlappingIntervals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="327">
+              <caret line="67" column="30" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2569#2570#0" expanded="true" />
+                <element signature="e#2611#2612#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,16 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leet/addTwoNumbers_002/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/leet/addTwoNumbers_002/solution.java" />
-        <option value="$PROJECT_DIR$/src/leet/circular_dequeue_641/a.java" />
-        <option value="$PROJECT_DIR$/src/leet/circular_dequeue_641/MyCircularDeque.java" />
-        <option value="$PROJECT_DIR$/src/leet/integer_to_roam/a.java" />
-        <option value="$PROJECT_DIR$/src/leet/integer_to_roam/solution.java" />
-        <option value="$PROJECT_DIR$/src/leet/Power_of_two_231/as.java" />
-        <option value="$PROJECT_DIR$/src/leet/Power_of_two_231/Solution.java" />
-        <option value="$PROJECT_DIR$/src/leet/Power_of_two_231/read_me" />
-        <option value="$PROJECT_DIR$/src/leet/Couples_holding_hands/as.java" />
         <option value="$PROJECT_DIR$/src/leet/contest_12_29/FourSum.java" />
         <option value="$PROJECT_DIR$/src/leet/contest_12_29/Pattern.java" />
         <option value="$PROJECT_DIR$/src/leet/contest_12_29/Assign_cookies.java" />
@@ -104,7 +119,17 @@
         <option value="$PROJECT_DIR$/src/leet/Sum/InsertIntoBST.java" />
         <option value="$PROJECT_DIR$/src/leet/Sum/test.txt" />
         <option value="$PROJECT_DIR$/src/leet/Sum/IsSubSequence.java" />
+        <option value="$PROJECT_DIR$/src/leet/Sum/WordPattern.java" />
         <option value="$PROJECT_DIR$/src/leet/Sum/EscapeGhosts.java" />
+        <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/FlattenNestedListIterator.java" />
+        <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/NestedIterator.java" />
+        <option value="$PROJECT_DIR$/src/leet/contest/contest_1_25/MonotonicArray.java" />
+        <option value="$PROJECT_DIR$/src/leet/contest/contest_1_25/IncreOrderST.java" />
+        <option value="$PROJECT_DIR$/src/leet/contest/contest_1_25/BitWise.java" />
+        <option value="$PROJECT_DIR$/src/leet/contest/contest_1_25/OrdelyQueue.java" />
+        <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/IntegerToEnglish.java" />
+        <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/UniqueBST2.java" />
+        <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/NonOverlappingIntervals.java" />
       </list>
     </option>
   </component>
@@ -114,19 +139,34 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="665" />
-    <option name="y" value="51" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
     <option name="width" value="976" />
-    <option name="height" value="1022" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
@@ -137,7 +177,41 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
+              <item name="Vacation2019_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -148,18 +222,19 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/JAVA文件/lintCode/LintCode/src/leet/Sum/Combinations.java" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\JAVA文件\lintCode\LintCode\lint" />
       <recent name="F:\JAVA文件\lintCode\LintCode\src" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="leet.BinTree_level_order_tranverse" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\JAVA文件\lintCode\LintCode\src\lint" />
       <recent name="F:\JAVA文件\lintCode\LintCode\src\leet" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="leet.BinTree_level_order_tranverse" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,15 +249,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsSubSequence">
-    <configuration name="DiameterBinTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.NonOverlappingIntervals">
+    <configuration name="IncreOrderST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="leet.Sum.*" />
+          <option name="PATTERN" value="leet.contest.contest_1_25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leet.Sum.DiameterBinTree" />
+      <option name="MAIN_CLASS_NAME" value="leet.contest.contest_1_25.IncreOrderST" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -194,14 +269,14 @@
       <module name="LintCode" />
       <envs />
     </configuration>
-    <configuration name="FruitBaskets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegerToEnglish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="leet.Sum.*" />
+          <option name="PATTERN" value="leet.Vacation2019_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leet.Sum.FruitBaskets" />
+      <option name="MAIN_CLASS_NAME" value="leet.Vacation2019_1.IntegerToEnglish" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -213,14 +288,14 @@
       <module name="LintCode" />
       <envs />
     </configuration>
-    <configuration name="IsSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MonotonicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="leet.Sum.*" />
+          <option name="PATTERN" value="leet.contest.contest_1_25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leet.Sum.IsSubSequence" />
+      <option name="MAIN_CLASS_NAME" value="leet.contest.contest_1_25.MonotonicArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -232,14 +307,14 @@
       <module name="LintCode" />
       <envs />
     </configuration>
-    <configuration name="LengthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NonOverlappingIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="leet.Sum.*" />
+          <option name="PATTERN" value="leet.Vacation2019_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leet.Sum.LengthOfLastWord" />
+      <option name="MAIN_CLASS_NAME" value="leet.Vacation2019_1.NonOverlappingIntervals" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -251,14 +326,14 @@
       <module name="LintCode" />
       <envs />
     </configuration>
-    <configuration name="SplitArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="WordPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leet.Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leet.Sum.SplitArray" />
+      <option name="MAIN_CLASS_NAME" value="leet.Sum.WordPattern" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -286,19 +361,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DiameterBinTree" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FruitBaskets" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LengthOfLastWord" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SplitArray" />
-      <item index="4" class="java.lang.String" itemvalue="Application.IsSubSequence" />
+      <item index="0" class="java.lang.String" itemvalue="Application.WordPattern" />
+      <item index="1" class="java.lang.String" itemvalue="Application.IntegerToEnglish" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MonotonicArray" />
+      <item index="3" class="java.lang.String" itemvalue="Application.IncreOrderST" />
+      <item index="4" class="java.lang.String" itemvalue="Application.NonOverlappingIntervals" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.IsSubSequence" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SplitArray" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LengthOfLastWord" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FruitBaskets" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DiameterBinTree" />
+        <item index="0" class="java.lang.String" itemvalue="Application.NonOverlappingIntervals" />
+        <item index="1" class="java.lang.String" itemvalue="Application.IntegerToEnglish" />
+        <item index="2" class="java.lang.String" itemvalue="Application.IncreOrderST" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MonotonicArray" />
+        <item index="4" class="java.lang.String" itemvalue="Application.WordPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -336,44 +411,51 @@
       <workItem from="1547447800379" duration="1982000" />
       <workItem from="1547528458140" duration="305000" />
       <workItem from="1547639592179" duration="610000" />
+      <workItem from="1547882693825" duration="761000" />
+      <workItem from="1547982705728" duration="2617000" />
+      <workItem from="1548032213530" duration="158000" />
+      <workItem from="1548117521382" duration="526000" />
+      <workItem from="1548118451362" duration="2482000" />
+      <workItem from="1548341135444" duration="6495000" />
+      <workItem from="1548389105225" duration="8974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100662000" />
+    <option name="totallyTimeSpent" value="122675000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36944127" sideWeight="0.5064378" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33979475" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33979475" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21190988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16040772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.493007" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36944127" sideWeight="0.49356222" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45952109" sideWeight="0.49356222" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.506993" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -389,7 +471,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.493007" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36944127" sideWeight="0.49356222" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45952109" sideWeight="0.49356222" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -400,7 +482,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33979475" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.506993" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21190988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16040772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -427,25 +509,21 @@
           <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leet/contest/contest_1_25/MonotonicArray.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="140" />
+      <option name="time" value="159" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="count" />
-        <watch expression="val" />
-        <watch expression="nums[begin]" language="JAVA" />
-        <watch expression="nums[end]" language="JAVA" />
-        <watch expression="stringBuilders" />
-        <watch expression="indexA" />
-        <watch expression="indexA" />
-        <watch expression="tree[treeIndex]" language="JAVA" />
-        <watch expression="set" />
-        <watch expression="indexS" />
-        <watch expression="indexT" />
+        <watch expression="root" />
       </configuration>
     </watches-manager>
   </component>
@@ -454,77 +532,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leet/circular_dequeue_641/MyCircularDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/contest_12_29/Pattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/contest_12_29/Assign_cookies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/contest_12_29/FourSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/contest_12_29/RepeatedSubStringPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/BinTree_level_order_tranverse/TreeNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/leet/BinTree_level_order_tranverse/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-933">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/CountPrime/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/NumMatrix_304/NumMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="40" column="44" lean-forward="false" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/possible_bipartition/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/Couples_holding_hands/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="933">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/FlipEquivalentBinaryTrees/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -645,13 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="745">
           <caret line="54" column="38" lean-forward="false" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/Sum/ExecelColumn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -792,13 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/Sum/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="10000" lean-forward="false" selection-start-line="1" selection-start-column="10000" selection-end-line="1" selection-end-column="10000" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/Sum/IsSubSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
@@ -806,11 +799,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/Sum/WordPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="58" column="20" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/Sum/ExecelColumn.class" />
+    <entry file="file://$PROJECT_DIR$/src/leet/Sum/ExecelColumn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/Sum/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="10000" lean-forward="false" selection-start-line="1" selection-start-column="10000" selection-end-line="1" selection-end-column="10000" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/Sum/EscapeGhosts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="681">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/Vacation2019_1/NestedIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="75" column="32" lean-forward="true" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2201#2202#0" expanded="false" />
+            <element signature="e#2240#2241#0" expanded="false" />
+            <element signature="e#2286#2287#0" expanded="false" />
+            <element signature="e#2322#2323#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/contest/as.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/contest/contest_1_25/MonotonicArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="79" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/contest/contest_1_25/IncreOrderST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="46" selection-end-column="23" />
+          <folding>
+            <element signature="e#439#440#0" expanded="false" />
+            <element signature="e#477#478#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/contest/contest_1_25/BitWise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="37" column="55" lean-forward="false" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/contest/contest_1_25/OrdelyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/Vacation2019_1/IntegerToEnglish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/Vacation2019_1/UniqueBST2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/Vacation2019_1/NonOverlappingIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="67" column="30" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2569#2570#0" expanded="true" />
+            <element signature="e#2611#2612#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -879,6 +984,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">

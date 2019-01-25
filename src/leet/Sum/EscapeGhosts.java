@@ -1,5 +1,7 @@
 package leet.Sum;
 
+import java.util.Map;
+
 /**
  * 789
  */
@@ -44,6 +46,15 @@ public class EscapeGhosts {
      * The ghost can reach the target at the same time as you.
      */
     public boolean escapeGhosts(int[][] ghosts, int[] target) {
+        int targetDist = counterDist(new int[]{0, 0}, target);
+        for (int[] ghost : ghosts) {
+            if (targetDist >= counterDist(ghost, target))
+                return false;
+        }
+        return true;
+    }
 
+    private int counterDist(int[] begin, int[] end) {
+        return Math.abs(begin[0] - end[0]) + Math.abs(begin[1] - end[1]);
     }
 }

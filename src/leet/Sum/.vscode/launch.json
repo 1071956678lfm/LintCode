@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExecelColumn",
+            "request": "launch",
+            "mainClass": "leet.Sum.ExecelColumn"
+        }
+    ]
+}

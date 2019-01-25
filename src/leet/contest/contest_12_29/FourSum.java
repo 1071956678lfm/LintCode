@@ -1,4 +1,4 @@
-package leet.contest_12_29;
+package leet.contest.contest_12_29;
 
 import java.util.*;
 
