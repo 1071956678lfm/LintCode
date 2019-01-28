@@ -1,5 +1,6 @@
 package leet.Vacation2019_1;
 
+//984
 public class StringWithout {
     /**
      * Given two integers A and B, return any string S such that:
@@ -19,43 +20,40 @@ public class StringWithout {
      * <p>
      * A B [1,1] -> ab ba A B [1,2] -> abb bab bba A B [1,3] -> aa a
      *
-     * @param A
-     * @param B
+     * @param A:Number of 'a'
+     * @param B:Number of 'b'
      * @return
      */
     public String strWithout3a3b(int A, int B) {
-        char ch_bigger;
-        char ch_smaller;
-        int big = Math.max(A, B);
-        int small = Math.min(A, B);
-        if (A * B == 1)
-            return "ab";
-        if (A==2&&B==2)
-            return "aabb";
-        if (A > B) {
-            ch_bigger = 'a';
-            ch_smaller = 'b';
-        } else {
-            ch_bigger = 'b';
-            ch_smaller = 'a';
-        }
         StringBuilder ans = new StringBuilder();
-        for (int i = 0; i < big; ) {
-            int index = 0;
-            while (index < 2 && i < big) {
-                ans.append(ch_bigger);
-                index++;
-                i++;
-            }
-            if (ans.length() != A + B) {
-                ans.append(ch_smaller);
-            }
+        int max = Math.max(A, B);
+        int min = Math.min(A, B);
+        String maxCh = A > B ? "a" : "b";
+        String minCh = A > B ? "b" : "a";
+        String sub = maxCh + maxCh + minCh;
+        A = max;
+        B = min;
+        while (Math.abs(A - B) >= 2 && B > 0) {
+            ans.append(sub);
+            A -= 2;
+            B -= 1;
         }
-
+        while (A > 0 && B > 0) {
+            ans.append("ab");
+            --A;
+            --B;
+        }
+        while (A > 0) {
+            ans.append(maxCh.charAt(0));
+            --A;
+        }
+        while (B > 0) {
+            ans.append(minCh.charAt(0));
+        }
         return ans.toString();
     }
 
     public static void main(String[] args) {
-        System.out.println(new StringWithout().strWithout3a3b(2, 2));
+        System.out.println(new StringWithout().strWithout3a3b(4, 1));
     }
 }
