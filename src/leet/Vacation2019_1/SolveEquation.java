@@ -87,7 +87,7 @@ public class SolveEquation {
         }
     }
 
-    public String solveEquation(String equation) {
+    private String solveEquation(String equation) {
         int equatorIndex = equation.indexOf('=');
         Node leftHead = new Node(equation.substring(0, equatorIndex));
         Node rightHead = new Node(equation.substring(equatorIndex + 1));
