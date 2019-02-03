@@ -30,18 +30,14 @@ public class VerticalOrder {
 
         @Override
         public int compareTo(Triple o2) {
-            Triple o1 = this;
-            if (o1.x < o2.x)
-                return 1;
-            else if (o1.x > o2.x)
-                return -1;
-            else {
-                if (o1.y < o2.y)
-                    return 1;
-                if (o1.y > o2.y)
-                    return -1;
-                else
-                    return o1.val < o2.val ? 1 : -1;
+            if (this.x != o2.x) {
+                return this.x - o2.x;
+            } else {
+                if (this.y != o2.y) {
+                    return o2.y - this.y;
+                } else {
+                    return this.val - o2.val;
+                }
             }
         }
     }
@@ -78,6 +74,7 @@ public class VerticalOrder {
         for (Triple triple : triples) {
             if (tmpList != null)
                 if (triple.x != x) {
+                    x = triple.x;
                     ans.add(tmpList);
                     tmpList = new LinkedList<>();
                     tmpList.add(triple.val);
@@ -87,9 +84,10 @@ public class VerticalOrder {
             else {
                 x = triple.x;
                 tmpList = new LinkedList<>();
-                tmpList.add(x);
+                tmpList.add(triple.val);
             }
         }
+        ans.add(tmpList);
         return ans;
     }
 
@@ -102,6 +100,7 @@ public class VerticalOrder {
                 helper(root.left, x - 1, y - 1);
             if (root.right != null)
                 helper(root.right, x + 1, y - 1);
+            triples.add(new Triple(x, y, root.val));
         }
     }
 
