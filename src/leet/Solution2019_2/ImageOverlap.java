@@ -24,6 +24,25 @@ public class ImageOverlap {
      * Explanation: We slide A to right by 1 unit and down by 1 unit.
      */
     public int largestOverlap(int[][] A, int[][] B) {
+        int ans = 0;
+        int n = A.length;
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < n; ++j) {
+                ans = Math.max(ans, Math.max(getOverlap(A, B, i, j),
+                        getOverlap(B, A, i, j)));
+            }
+        }
+        return ans;
+    }
 
+    private int getOverlap(int[][] A, int[][] B, int rowOff, int colOff) {
+        int n = A.length;
+        int ans = 0;
+        for (int i = rowOff; i < n; ++i) {
+            for (int j = colOff; j < n; ++j) {
+                ans += A[i][j] * B[i - rowOff][j - colOff];
+            }
+        }
+        return ans;
     }
 }
