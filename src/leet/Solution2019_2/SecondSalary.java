@@ -34,8 +34,27 @@ public class SecondSalary {
      * Output: 5
      * Explanation: The LCA of nodes 5 and 4 is 5,
      * since a node can be a descendant of itself according to the LCA definition.
+     * <p>
+     * root - left - right 三者中只要有两个为存在p or q
      */
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        return null;
+        this.ans = null;
+        findDescends(root, p, q);
+        return ans;
     }
+
+    private boolean findDescends(TreeNode root, TreeNode p, TreeNode q) {
+        int left, right, mid;
+        if (root == null) {
+            return false;
+        }
+        left = findDescends(root.left, p, q) ? 1 : 0;
+        right = findDescends(root.right, p, q) ? 1 : 0;
+        mid = (root.val == p.val || root.val == q.val) ? 1 : 0;
+        if (left + right + mid >= 2)
+            ans = root;
+        return (left + right + mid) > 0;
+    }
+
+
 }
