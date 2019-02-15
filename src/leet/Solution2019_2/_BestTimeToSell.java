@@ -3,7 +3,7 @@ package leet.Solution2019_2;
 /**
  * DP
  */
-public class BestTimeToSell {
+public class _BestTimeToSell {
     /**
      * Q121
      * <p>
@@ -211,7 +211,7 @@ public class BestTimeToSell {
 
     public static void main(String[] args) {
         int nums[] = {3, 3, 5, 0, 0, 3, 1, 4};
-        System.out.println(new BestTimeToSell()
+        System.out.println(new _BestTimeToSell()
                 .maxProfit_3(nums));
     }
 }

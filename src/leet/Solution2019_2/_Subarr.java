@@ -1,7 +1,7 @@
 package leet.Solution2019_2;
 
 //992
-public class Subarr {
+public class _Subarr {
     /**
      * Given an array A of positive integers,
      * call a (contiguous, not necessarily distinct)

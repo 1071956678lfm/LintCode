@@ -3,7 +3,7 @@ package leet.Solution2019_2;
 import java.util.Arrays;
 
 //473
-public class Matchsticks {
+public class _Matchsticks {
     /**
      * Remember the story of Little Match Girl? By now, you know exactly what matchsticks the little match girl has,
      * please find out a way you can make one square by using up all those matchsticks.
