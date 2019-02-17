@@ -1,7 +1,7 @@
 package leet.Solution2019_2;
 
 //84
-public class LargestRec {
+public class _LargestRec {
     /**
      * Given n non-negative integers representing the histogram's bar height where the width of each bar is 1,
      * find the area of largest rectangle in the histogram.
@@ -43,6 +43,6 @@ public class LargestRec {
 
     public static void main(String[] args) {
         int[] heights = {1, 2, 3, 4, 5};
-        System.out.println(new LargestRec().largestRectangleArea(heights));
+        System.out.println(new _LargestRec().largestRectangleArea(heights));
     }
 }
