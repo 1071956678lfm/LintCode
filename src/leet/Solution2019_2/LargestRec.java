@@ -3,7 +3,7 @@ package leet.Solution2019_2;
 //84
 public class LargestRec {
     /**
-     * Given n non-negative integers representing the histogram's bar height where the width of each bar is 1,
+     * Given n non-negative integers representing the histogram's bar depth where the width of each bar is 1,
      * find the area of largest rectangle in the histogram.
      */
     public int largestRectangleArea(int[] heights) {
@@ -12,28 +12,28 @@ public class LargestRec {
         }
         int[] dp = new int[heights.length];
         dp[0] = heights[0];
-        int height = dp[0];//current height
+        int height = dp[0];//current depth
         for (int i = 1; i < heights.length; ++i) {
             int H = heights[i];
             if (H == 0) {
                 dp[i] = dp[i - 1];
                 height = 0;
-            } else if (H >= height) {  //the cur is higher add the height---
-                if (dp[i - 1] + height <= H) {//The single rec is larger , update the height
+            } else if (H >= height) {  //the cur is higher add the depth---
+                if (dp[i - 1] + height <= H) {//The single rec is larger , update the depth
                     dp[i] = H;
                     height = H;
                 } else {                //The former is larger, extend the width
                     dp[i] = height + dp[i - 1];
                 }
-            } else { // H < height , the cur H is lower
+            } else { // H < depth , the cur H is lower
                 int width = 1;
                 for (int j = i - 1; j >= 0; --j) {
-                    if (heights[j] >= H) { //the specific has the height bigger than H
+                    if (heights[j] >= H) { //the specific has the depth bigger than H
                         ++width;
                     }
                 }
                 dp[i] = Math.max(width * H, dp[i - 1]);
-                if (width * H >= dp[i - 1]) {// if the new is taken, update the height
+                if (width * H >= dp[i - 1]) {// if the new is taken, update the depth
                     height = H;
                 }
             }

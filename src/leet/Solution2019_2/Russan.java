@@ -7,8 +7,8 @@ import java.util.Comparator;
 public class Russan {
     /**
      * You have a number of envelopes with widths and heights given as a pair of integers (w, h).
-     * One envelope can fit into another if and only if both the width and height of one envelope
-     * is greater than the width and height of the other envelope.
+     * One envelope can fit into another if and only if both the width and depth of one envelope
+     * is greater than the width and depth of the other envelope.
      * <p>
      * What is the maximum number of envelopes can you Russian doll? (put one inside other)
      * <p>
