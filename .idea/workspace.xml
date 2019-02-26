@@ -8,13 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e42e255-d9e7-4285-96fa-a0604f51bff3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Solution2019_2/RepeatedDNA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Solution2019_2/SearchRotatedArr.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/LintCode/leet/Solution2019_2/SmallestDepth.class" afterPath="$PROJECT_DIR$/out/production/LintCode/leet/Solution2019_2/SmallestDepth.class" />
-      <change beforePath="$PROJECT_DIR$/src/leet/Solution2019_2/LargestRec.java" afterPath="$PROJECT_DIR$/src/leet/Solution2019_2/LargestRec.java" />
-      <change beforePath="$PROJECT_DIR$/src/leet/Solution2019_2/Russan.java" afterPath="$PROJECT_DIR$/src/leet/Solution2019_2/Russan.java" />
-      <change beforePath="$PROJECT_DIR$/src/leet/Solution2019_2/WaterFlow.java" afterPath="$PROJECT_DIR$/src/leet/Solution2019_2/WaterFlow.java" />
+      <change beforePath="$PROJECT_DIR$/src/leet/Solution2019_2/SearchRotatedArr.java" afterPath="$PROJECT_DIR$/src/leet/Solution2019_2/SearchRotatedArr.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +23,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LintCode$RepeatedDNA.coverage" NAME="RepeatedDNA Coverage Results" MODIFIED="1551160683772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leet.Solution2019_2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LintCode$SearchRotatedArr.coverage" NAME="SearchRotatedArr Coverage Results" MODIFIED="1551166842499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leet.Solution2019_2.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/LintCode$PalindromePartitioning.coverage" NAME="PalindromePartitioning Coverage Results" MODIFIED="1548744010421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -67,11 +64,11 @@
       <file leaf-file-name="SearchRotatedArr.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/SearchRotatedArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state relative-caret-position="364">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#695#696#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,7 +161,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="165" />
     <option name="y" value="65" />
     <option name="width" value="976" />
@@ -229,13 +226,6 @@
               <item name="LintCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution2019_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leet" type="462c0819:PsiDirectoryNode" />
               <item name="Sum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -284,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RepeatedDNA">
+  <component name="RunManager" selected="Application.SearchRotatedArr">
     <configuration name="Astroid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -293,25 +283,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="leet.Solution2019_2.Astroid" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LintCode" />
-      <envs />
-    </configuration>
-    <configuration name="FindAndReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leet.Solution2019_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="leet.Solution2019_2.FindAndReplace" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -361,6 +332,25 @@
       <module name="LintCode" />
       <envs />
     </configuration>
+    <configuration name="SearchRotatedArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leet.Solution2019_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leet.Solution2019_2.SearchRotatedArr" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LintCode" />
+      <envs />
+    </configuration>
     <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -396,19 +386,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FindAndReplace" />
-      <item index="1" class="java.lang.String" itemvalue="Application.WordBreak" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LargestRec" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Astroid" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RepeatedDNA" />
+      <item index="0" class="java.lang.String" itemvalue="Application.WordBreak" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LargestRec" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Astroid" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RepeatedDNA" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SearchRotatedArr" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RepeatedDNA" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Astroid" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LargestRec" />
-        <item index="3" class="java.lang.String" itemvalue="Application.WordBreak" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FindAndReplace" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SearchRotatedArr" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RepeatedDNA" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Astroid" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LargestRec" />
+        <item index="4" class="java.lang.String" itemvalue="Application.WordBreak" />
       </list>
     </recent_temporary>
   </component>
@@ -487,10 +477,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244408000" />
+    <option name="totallyTimeSpent" value="246234000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -665,7 +655,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="352" />
+      <option name="time" value="358" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -933,14 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/MineSweaper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-177">
-          <caret line="63" column="36" lean-forward="true" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/_BestTimeToSell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -1041,7 +1023,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/Sum/SearchInRotatedArr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="-28">
           <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
           <folding>
             <element signature="e#779#780#0" expanded="true" />
@@ -1050,13 +1032,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/MineSweaper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/SearchRotatedArr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        <state relative-caret-position="364">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
           </folding>
         </state>
       </provider>
