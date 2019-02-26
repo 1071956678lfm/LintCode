@@ -29,7 +29,7 @@ public class SmallestDepth {
         if (root == null)
             return null;
         Map<TreeNode, TreeNode> map = new HashMap<>(); // 子节点映射到父节点
-        Map<TreeNode, Integer> mapHeight = new HashMap<>(); //node -> height
+        Map<TreeNode, Integer> mapHeight = new HashMap<>(); //node -> depth
         int height = 1;
         queue.add(root);
         queue.add(flank());
@@ -94,6 +94,41 @@ public class SmallestDepth {
 
     private TreeNode flank() {
         return new TreeNode(Integer.MAX_VALUE);
+    }
+
+
+    private TreeNode solution2(TreeNode root) {
+        if (root == null)
+            return null;
+        return traverse(root, 0).node;
+    }
+
+    /**
+     * 使用迭代来进行
+     */
+    private Node traverse(TreeNode root, int depth) {
+        Node left = root.left == null ? null : traverse(root.left, depth + 1);
+        Node right = root.right == null ? null : traverse(root.right, depth + 1);
+        if (left == null && right == null)
+            return new Node(root, depth);
+        if (left == null)
+            return right;
+        if (right == null)
+            return left;
+        if (left.depth < right.depth) return right;
+        else if (left.depth > right.depth) return left;
+        else
+            return new Node(root, left.depth);
+    }
+
+    private class Node {
+        TreeNode node;
+        int depth;
+
+        Node(TreeNode node, int depth) {
+            this.node = node;
+            this.depth = depth;
+        }
     }
 
     public static void main(String[] args) {
