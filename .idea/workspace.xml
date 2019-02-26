@@ -8,9 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e42e255-d9e7-4285-96fa-a0604f51bff3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/contest/contest_2_27/Solution.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Solution2019_2/FindEven.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Solution2019_2/LargestRec.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/leet/Solution2019_2/LargestRec.java" afterPath="$PROJECT_DIR$/src/leet/Solution2019_2/_LargestRec.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,22 +54,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leet/contest/contest_2_27/Solution.java">
+      <file leaf-file-name="LargestRec.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/LargestRec.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="301" column="31" lean-forward="false" selection-start-line="301" selection-start-column="31" selection-end-line="301" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="class#Ele#0;class#Solution#0" expanded="false" />
-                <element signature="method#orangesRotting#0;class#Solution#0" expanded="false" />
-                <element signature="method#isValid#0;class#Solution#0" expanded="false" />
-                <element signature="method#checkAll#0;class#Solution#0" expanded="false" />
-                <element signature="e#8314#8315#0" expanded="true" />
-                <element signature="e#8339#8340#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="189">
+              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -95,6 +85,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/NonOverlappingIntervals.java" />
+        <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/StringWithout.java" />
         <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/UglyNumber.js" />
         <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/MinTicket.java" />
         <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/PalindromePartitioning.java" />
@@ -144,8 +136,6 @@
         <option value="$PROJECT_DIR$/src/leet/Solution2019_2/WordBreak.java" />
         <option value="$PROJECT_DIR$/src/leet/Solution2019_2/FindEven.java" />
         <option value="$PROJECT_DIR$/src/leet/Solution2019_2/LargestRec.java" />
-        <option value="$PROJECT_DIR$/src/leet/Solution2019_2/_LargestRec.java" />
-        <option value="$PROJECT_DIR$/src/leet/contest/contest_2_27/Solution.java" />
       </list>
     </option>
   </component>
@@ -161,7 +151,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="386" />
     <option name="y" value="60" />
     <option name="width" value="1380" />
@@ -201,10 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,27 +214,16 @@
               <item name="LintCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="contest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="contest" type="462c0819:PsiDirectoryNode" />
-              <item name="contest_2_27" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leet" type="462c0819:PsiDirectoryNode" />
               <item name="Solution2019_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.LargestRec">
     <configuration name="FindAndReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -297,6 +272,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="leet.Solution2019_2.FindAndReplace" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LintCode" />
+      <envs />
+    </configuration>
+    <configuration name="LargestRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leet.Solution2019_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leet.Solution2019_2.LargestRec" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -327,25 +321,6 @@
       <module name="LintCode" />
       <envs />
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leet.contest.contest_2_27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="leet.contest.contest_2_27.Solution" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LintCode" />
-      <envs />
-    </configuration>
     <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -365,14 +340,14 @@
       <module name="LintCode" />
       <envs />
     </configuration>
-    <configuration name="_LargestRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="_BestTimeToSell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leet.Solution2019_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leet.Solution2019_2._LargestRec" />
+      <option name="MAIN_CLASS_NAME" value="leet.Solution2019_2._BestTimeToSell" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -400,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PaliList" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FindAndReplace" />
-      <item index="2" class="java.lang.String" itemvalue="Application.WordBreak" />
-      <item index="3" class="java.lang.String" itemvalue="Application._LargestRec" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Solution" />
+      <item index="0" class="java.lang.String" itemvalue="Application._BestTimeToSell" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PaliList" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FindAndReplace" />
+      <item index="3" class="java.lang.String" itemvalue="Application.WordBreak" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LargestRec" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
-        <item index="1" class="java.lang.String" itemvalue="Application._LargestRec" />
-        <item index="2" class="java.lang.String" itemvalue="Application.WordBreak" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FindAndReplace" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PaliList" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LargestRec" />
+        <item index="1" class="java.lang.String" itemvalue="Application.WordBreak" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FindAndReplace" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PaliList" />
+        <item index="4" class="java.lang.String" itemvalue="Application._BestTimeToSell" />
       </list>
     </recent_temporary>
   </component>
@@ -487,15 +462,14 @@
       <workItem from="1550214953791" duration="10612000" />
       <workItem from="1550306832838" duration="771000" />
       <workItem from="1550326339777" duration="3029000" />
-      <workItem from="1550364773918" duration="6845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247066000" />
+    <option name="totallyTimeSpent" value="240221000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -506,8 +480,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36944127" sideWeight="0.5064378" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.4939551" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33979475" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2645382" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -517,8 +491,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.43350604" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38426453" sideWeight="0.49356222" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -548,8 +522,8 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33979475" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5664939" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2645382" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18347639" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -645,11 +619,17 @@
           <properties />
           <option name="timeStamp" value="332" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leet/Solution2019_2/LargestRec.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="351" />
+      <option name="time" value="344" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -658,6 +638,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/leet/Vacation2019_1/a.html" />
     <entry file="file://$PROJECT_DIR$/src/leet/Vacation2019_1/CountBinarySubString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1012,29 +993,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/_LargestRec.java">
+    <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/LargestRec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="189">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/contest/contest_2_27/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="301" column="31" lean-forward="false" selection-start-line="301" selection-start-column="31" selection-end-line="301" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="class#Ele#0;class#Solution#0" expanded="false" />
-            <element signature="method#orangesRotting#0;class#Solution#0" expanded="false" />
-            <element signature="method#isValid#0;class#Solution#0" expanded="false" />
-            <element signature="method#checkAll#0;class#Solution#0" expanded="false" />
-            <element signature="e#8314#8315#0" expanded="true" />
-            <element signature="e#8339#8340#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
