@@ -8,8 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e42e255-d9e7-4285-96fa-a0604f51bff3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Solution2019_2/Contest_2_26.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Solution2019_2/RemoveDepulite.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/LintCode/leet/Solution2019_2/Contest_2_26.class" afterPath="$PROJECT_DIR$/out/production/LintCode/leet/Solution2019_2/Contest_2_26.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,37 +24,37 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/LintCode$RepeatedDNA.coverage" NAME="RepeatedDNA Coverage Results" MODIFIED="1551160683772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>leet.Solution2019_2.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/LintCode$SearchRotatedArr.coverage" NAME="SearchRotatedArr Coverage Results" MODIFIED="1551166842499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>leet.Solution2019_2.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/LintCode$PalindromePartitioning.coverage" NAME="PalindromePartitioning Coverage Results" MODIFIED="1548744010421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leet.Vacation2019_1.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/LintCode$NumMatrix.coverage" NAME="NumMatrix Coverage Results" MODIFIED="1546140258727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>leet.NumMatrix_304.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/LintCode$VerticalOrder.coverage" NAME="VerticalOrder Coverage Results" MODIFIED="1549184165202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leet.Solution2019_2.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/LintCode$CountBinarySubString.coverage" NAME="CountBinarySubString Coverage Results" MODIFIED="1548766199722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>leet.Vacation2019_1.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/LintCode$SumEven.coverage" NAME="SumEven Coverage Results" MODIFIED="1549178729833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/LintCode$RepeatedDNA.coverage" NAME="RepeatedDNA Coverage Results" MODIFIED="1551160683772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leet.Solution2019_2.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/LintCode$IntervalList.coverage" NAME="IntervalList Coverage Results" MODIFIED="1549181708888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/LintCode$NumMatrix.coverage" NAME="NumMatrix Coverage Results" MODIFIED="1546140258727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leet.NumMatrix_304.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LintCode$ThreeSum.coverage" NAME="ThreeSum Coverage Results" MODIFIED="1549022769561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leet.Solution2019_2.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/LintCode$Astroid.coverage" NAME="Astroid Coverage Results" MODIFIED="1551150047532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leet.Solution2019_2.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/LintCode$SumEven.coverage" NAME="SumEven Coverage Results" MODIFIED="1549178729833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leet.Solution2019_2.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/LintCode$SolveEquation.coverage" NAME="SolveEquation Coverage Results" MODIFIED="1548904560978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leet.Vacation2019_1.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/LintCode$ThreeSum.coverage" NAME="ThreeSum Coverage Results" MODIFIED="1549022769561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/LintCode$SearchRotatedArr.coverage" NAME="SearchRotatedArr Coverage Results" MODIFIED="1551166842499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leet.Solution2019_2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LintCode$CountBinarySubString.coverage" NAME="CountBinarySubString Coverage Results" MODIFIED="1548766199722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leet.Vacation2019_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LintCode$IntervalList.coverage" NAME="IntervalList Coverage Results" MODIFIED="1549181708888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leet.Solution2019_2.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/LintCode$RotateArr.coverage" NAME="RotateArr Coverage Results" MODIFIED="1549452363755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -62,11 +63,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Contest_2_26.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Contest_2_26.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/Contest_2_26.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="183" column="20" lean-forward="false" selection-start-line="183" selection-start-column="20" selection-end-line="183" selection-end-column="20" />
+            <state relative-caret-position="103">
+              <caret line="170" column="10" lean-forward="false" selection-start-line="170" selection-start-column="10" selection-end-line="170" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#5337#5338#0" expanded="true" />
@@ -76,6 +77,16 @@
                 <element signature="e#5694#5695#0" expanded="true" />
                 <element signature="e#5780#5781#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDepulite.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/RemoveDepulite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/PalindromePartitioning.java" />
         <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/DeleteNode.java" />
         <option value="$PROJECT_DIR$/src/leet/Vacation2019_1/show.html" />
@@ -152,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/leet/Solution2019_2/RepeatedDNA.java" />
         <option value="$PROJECT_DIR$/src/leet/Solution2019_2/SearchRotatedArr.java" />
         <option value="$PROJECT_DIR$/src/leet/Solution2019_2/Contest_2_26.java" />
+        <option value="$PROJECT_DIR$/src/leet/Solution2019_2/RemoveDepulite.java" />
       </list>
     </option>
   </component>
@@ -167,7 +178,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="165" />
     <option name="y" value="65" />
     <option name="width" value="976" />
@@ -209,8 +220,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,6 +249,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,7 +262,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/JAVA文件/lintCode/LintCode/src/leet/Sum/Combinations.java" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
@@ -480,19 +491,22 @@
       <workItem from="1550306832838" duration="771000" />
       <workItem from="1550326339777" duration="3029000" />
       <workItem from="1551172895574" duration="4281000" />
+      <workItem from="1551181384256" duration="56000" />
+      <workItem from="1551181610453" duration="78000" />
+      <workItem from="1551184913525" duration="115000" />
+      <workItem from="1551340119870" duration="1495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250515000" />
+    <option name="totallyTimeSpent" value="252259000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -515,6 +529,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5664939" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -656,21 +671,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leet/Vacation2019_1/StrCompression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="94" column="19" lean-forward="true" selection-start-line="89" selection-start-column="8" selection-end-line="94" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leet/Vacation2019_1/SolveEquation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1540">
-          <caret line="89" column="4" lean-forward="false" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/Vacation2019_1/SwapAdjacent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -985,10 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding>
-            <element signature="method#subtreeWithAllDeepest#0;class#SmallestDepth#0" expanded="false" />
-            <element signature="method#findAns#0;class#SmallestDepth#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1018,17 +1014,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/Contest_2_26.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="183" column="20" lean-forward="false" selection-start-line="183" selection-start-column="20" selection-end-line="183" selection-end-column="20" />
+        <state relative-caret-position="103">
+          <caret line="170" column="10" lean-forward="false" selection-start-line="170" selection-start-column="10" selection-end-line="170" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#5337#5338#0" expanded="true" />
@@ -1038,6 +1030,22 @@
             <element signature="e#5694#5695#0" expanded="true" />
             <element signature="e#5780#5781#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/javax/swing/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leet/Solution2019_2/RemoveDepulite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
