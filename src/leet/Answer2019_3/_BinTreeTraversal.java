@@ -6,7 +6,7 @@ import java.util.Queue;
 import java.util.Stack;
 
 //107
-public class BinTreeTraversal {
+public class _BinTreeTraversal {
     private static class TreeNode {
         TreeNode left;
         TreeNode right;
@@ -53,10 +53,49 @@ public class BinTreeTraversal {
         return ans;
     }
 
+    /**
+     * 894
+     * A full binary tree is a binary tree where each node has exactly 0 or 2 children.
+     * <p>
+     * Return a list of all possible full binary trees with N nodes.
+     * Each element of the answer is the root node of one possible tree.
+     * <p>
+     * Each node of each tree in the answer must have node.val = 0.
+     * <p>
+     * You may return the final list of trees in any order.
+     */
+    private List<TreeNode> ans = new LinkedList<>();
+
+    public List<TreeNode> allPossibleFBT(int N) {
+        if ((N & 1) == 0)
+            return ans;
+        helper(N - 1);
+        return ans;
+    }
+
+    private List<TreeNode> helper(int N) {
+        List<TreeNode> list = new LinkedList<>();
+        if (N == 1) {
+            list.add(new TreeNode(0));
+            return list;
+        } else if (N == 3) {
+            TreeNode root = new TreeNode(0);
+            update(root);
+            list.add(root);
+            return list;
+        }
+        return list;
+    }
+
+    private void update(TreeNode root) {
+        root.left = new TreeNode(0);
+        root.right = new TreeNode(0);
+    }
+
     public static void main(String[] args) {
         TreeNode root = new TreeNode(3);
         root.left = new TreeNode(4);
         root.right = new TreeNode(5);
-        System.out.println(new BinTreeTraversal().levelOrderBottom(root));
+        System.out.println(new _BinTreeTraversal().levelOrderBottom(root));
     }
 }
