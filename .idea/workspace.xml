@@ -7,10 +7,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/leet/Solution2019_2/MineSweaper.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e42e255-d9e7-4285-96fa-a0604f51bff3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/leet/Answer2019_3/LongestMountain.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="1e42e255-d9e7-4285-96fa-a0604f51bff3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -485,12 +482,12 @@
       <workItem from="1551369014818" duration="9000" />
       <workItem from="1551407272603" duration="5296000" />
       <workItem from="1551442869766" duration="20000" />
-      <workItem from="1551512481187" duration="1229000" />
+      <workItem from="1551512481187" duration="1388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260093000" />
+    <option name="totallyTimeSpent" value="260252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
