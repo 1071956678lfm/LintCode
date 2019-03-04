@@ -175,8 +175,6 @@ public class Contest3_3 {
                 if (nums[i] == 1) {
                     isOne = true;
                     ++cur;
-                } else {
-                    continue;
                 }
             } else {
                 if (nums[i] == 1) {
