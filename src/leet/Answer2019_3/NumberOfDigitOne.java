@@ -14,17 +14,26 @@ public class NumberOfDigitOne {
 
     public int countDigitOne(int n) {
         int ans = 0;
+        if (n <= 0)
+            return 0;
         int tenCount = countTenNum(n);
+        if (tenCount == 0)
+            return 1;
         int[] total = getTotal(tenCount);
-        while (tenCount > 0) {
-            int k = (int) (n / Math.pow(10, tenCount));
-            if (k > 1)
-                ans += Math.pow(10, tenCount);
+        while (n > 0) {
+            int k = (int) (n / Math.pow(10, tenCount)); // base k * 10^tenCount + C = n
+            if (k > 1) {
+                ans += Math.pow(10, tenCount); //add 1xxxx - 199999..
+            } else { // n = 1xxxx
+                ans += n - (int) Math.pow(10, tenCount) + 1;
+            }
+            if (tenCount == 0)
+                break;
             ans += k * total[tenCount - 1]; //get rid of pow(10,tenCount)
             n = n - k * (int) Math.pow(10, tenCount);
             tenCount = countTenNum(n);
         }
-        return ans + 1;
+        return ans;
     }
 
 
@@ -38,13 +47,6 @@ public class NumberOfDigitOne {
     }
 
     private int countTenNum(int n) {
-        /*
-         *  0 - [0,9]  ( 1 )
-         *  1 - [10,99] (10 + total(1)*9) = 18
-         *  2 - [100,999] total(2) + ( total(2)*9 + 100 ) =300 = (10* total[i-1] + 10^i)
-         *
-         *  ...
-         * */
         int ans = 0;
         while (n / 10 != 0) {
             ++ans;
@@ -54,6 +56,6 @@ public class NumberOfDigitOne {
     }
 
     public static void main(String[] args) {
-        System.out.println(new NumberOfDigitOne().countDigitOne(100));
+        System.out.println(new NumberOfDigitOne().countDigitOne(1));
     }
 }
