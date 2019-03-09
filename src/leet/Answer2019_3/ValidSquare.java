@@ -14,15 +14,29 @@ public class ValidSquare {
      * Output: True
      */
     public boolean validSquare(int[] p1, int[] p2, int[] p3, int[] p4) {
-        int[] xAxis = {p1[0], p2[0], p3[0], p4[0]};
-        int[] yAxis = {p1[1], p2[1], p3[1], p4[1]};
-        Arrays.sort(xAxis);
-        Arrays.sort(yAxis);
-        return (xAxis[0] + xAxis[3] == xAxis[1] + xAxis[2]) &&
-                (yAxis[0] + yAxis[3] == yAxis[1] + yAxis[2]);
+        int[][] points = new int[][]{p1, p2, p3, p4};
+        Arrays.sort(points, (o1, o2) -> {
+            int result = o1[0] - o2[0];
+            if (result != 0)
+                return result;
+            else
+                return o1[1] - o2[1];
+        });
+
+        double lenA = getDistance(points[0], points[1]);
+        double lenB = getDistance(points[0], points[2]);
+        double t = getDistance(points[0], points[3]);
+        return lenA != 0 && lenA == lenB && t == (Math.pow(lenA, 2) + Math.pow(lenB, 2));
     }
 
-    public static void main(String[] args){
+    private double getDistance(int[] p1, int[] p2) {
+        return Math.pow(p1[0] - p2[0], 2) + Math.pow(p1[1] - p2[1], 2);
+    }
 
+    public static void main(String[] args) {
+        System.out.println(new ValidSquare().validSquare(new int[]{0, 0},
+                new int[]{1, 1},
+                new int[]{1, 0},
+                new int[]{0, 1}));
     }
 }
