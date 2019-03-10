@@ -28,6 +28,6 @@ public class UniqueSubStr {
      * Explanation: There are six substrings "z", "a", "b", "za", "ab", "zab" of string "zab" in the string s.
      */
     public int findSubstringInWraproundString(String p) {
-
+        return 1;
     }
 }
