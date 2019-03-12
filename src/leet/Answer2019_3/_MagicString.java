@@ -30,6 +30,20 @@ public class _MagicString {
      * Explanation: The first 6 elements of magical string S is "12211" and it contains three 1's, so return 3.
      */
     public int magicalString(int n) {
-        return 0;
+        // str: 1 22 11 2
+        // counter: 1 2 2 1 1
+        if (n <= 0)
+            return 0;
+        int ans = 0;
+        boolean findOriginal = true;
+        boolean isOne = true;
+        int index = 0;
+        while (index < n) {
+
+            ++index;
+        }
+
+
+        return ans;
     }
 }
