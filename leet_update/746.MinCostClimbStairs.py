@@ -1,3 +1,4 @@
+
 class Solution(object):
     def minCostClimbingStairs(self, cost):
         """
@@ -18,14 +19,11 @@ class Solution(object):
         :type cost: List[int]
         :rtype: int
         """
-        if len(cost) <= 1:
-            return 0
-        dp = [cost[0], min(cost[0], cost[1])]
-        for i in range(2, len(cost)):
-            dp.append(cost[i] + min(dp[i-1], dp[i-2]))
+        dp = [x for x in cost]
+        for i in range(2, len(dp)):
+            dp[i] += min(dp[i-1], dp[i-2])
         return min(dp[-1], dp[-2])
 
 
 cost = [0, 1, 1, 0]
-t = Solution().minCostClimbingStairs(cost)
-print(t)
+Solution().minCostClimbingStairs(cost=cost)
