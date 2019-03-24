@@ -1,3 +1,6 @@
+import math as m
+
+
 class Solution(object):
     def checkPerfectNumber(self, num):
         """
@@ -9,6 +12,14 @@ class Solution(object):
         :type num: int
         :rtype: bool
         """
-        l = [x for x in range(1, num) if num % x == 0]
-        return sum(l) == num
+        bound = int(num ** 0.5)
+        ans = 1
+        for x in range(2, bound):
+            if num % x == 0:
+                ans += x
+                if num / x != x:
+                    ans += num/x
+        return ans == num
+
+
 print(Solution().checkPerfectNumber(32))
