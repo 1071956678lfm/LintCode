@@ -17,6 +17,10 @@ class Solution(object):
         :type b: str
         :rtype: str
         """
-        return bin(int(a,2)+int(b,2))[2:]    
+        print('abc'[::-1])
+        return bin(int(a, 2)+int(b, 2))[2:]
 
-print(Solution().addBinary('11','1'))
+
+a = '2124'
+b = str(bin(int(a)))[-4:]
+print(int(b,2))
