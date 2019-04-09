@@ -4,29 +4,17 @@ class Solution(object):
         :type matrix: List[List[str]]
         :rtype: int
         """
-        row = len(matrix)
-        col = len(matrix[0])
-
-        dp = [[0 for i in range(col)] for j in range(row)]
-        dp[0][0] = matrix[0][0]
-
-        for i in range(1, row):
-            dp[i][0] = dp[i - 1][0]
-        for i in range(1, col):
-            dp[0][i] = dp[0][i - 1]
-
-        for i in range(1, row):
-            for j in range(1, col):
-                if matrix[i][j] == 0:
-                    matrix[i][j] = matrix[i - 1][j - 1]
-                else:
-                    tmp_len = min(i - 1, j - 1)
-                    matrix[i][j] = matrix[i - 1][j - 1]
-                    for k in range(tmp_len):
-
-                        pass
-
-        return 1
+        if not matrix: return 0
+        m, n = len(matrix), len(matrix[0])
+        area = max(max([int(i) for i in matrix[0]]), max([int(row[0]) for row in matrix]))
+        for i in range(1, m):
+            for j in range(1, n):
+                flag = min(int(matrix[i - 1][j - 1]), int(matrix[i - 1][j]), int(matrix[i][j - 1]))
+                matrix[i][j] = flag + 1 if int(matrix[i][j]) == 1 else 0
+                area = max(area, matrix[i][j])
+        return area ** 2
 
 
-Solution().maximalSquare([[1, 3], [2, 4]])
+ans = Solution().maximalSquare([["0", "0"],
+                                ["0", "0"]])
+print(ans)
