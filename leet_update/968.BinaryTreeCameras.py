@@ -11,7 +11,8 @@ class Solution:
         pass
 
 
-root = TreeNode(3)
-root.left = TreeNode(1)
-
-print(Solution().minCameraCover(root))
+# root = TreeNode(3)
+# root.left = TreeNode(1)
+#
+# print(Solution().minCameraCover(root))
+print(bin(191))
