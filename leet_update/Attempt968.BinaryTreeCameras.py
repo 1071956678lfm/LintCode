@@ -15,4 +15,4 @@ class Solution:
 # root.left = TreeNode(1)
 #
 # print(Solution().minCameraCover(root))
-print(bin(191))
+print(bin(111))
