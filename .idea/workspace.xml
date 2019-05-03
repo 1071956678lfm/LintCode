@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9639b7d7-fb4b-4143-934c-87aedab284c6" name="Default" comment="Q846" />
+    <list default="true" id="9639b7d7-fb4b-4143-934c-87aedab284c6" name="Default" comment="Q846">
+      <change afterPath="$PROJECT_DIR$/leet_update/813.LargestSumOfAve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_update/930.BinarySumarraysWithSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leet_update/930.BinarySumarraysWithSum.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leet_update/930.BinarySumarraysWithSum.py">
+        <entry file="file://$PROJECT_DIR$/leet_update/813.LargestSumOfAve.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="184">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -70,14 +74,15 @@
         <option value="$PROJECT_DIR$/leet_update/633.SumOfSquareNumbers.py" />
         <option value="$PROJECT_DIR$/leet_update/846.HandOfStraights.py" />
         <option value="$PROJECT_DIR$/leet_update/930.BinarySumarraysWithSum.py" />
+        <option value="$PROJECT_DIR$/leet_update/813.LargestSumOfAve.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="562" />
-    <option name="y" value="37" />
+    <option name="x" value="101" />
+    <option name="y" value="23" />
     <option name="width" value="1800" />
-    <option name="height" value="1200" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -116,6 +121,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
+              <item name="leet_update" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -403,6 +425,8 @@
       <workItem from="1556544802871" duration="4210000" />
       <workItem from="1556586027542" duration="48000" />
       <workItem from="1556712752821" duration="1346000" />
+      <workItem from="1556762166185" duration="54000" />
+      <workItem from="1556889194128" duration="1378000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1555687345718</created>
@@ -436,7 +460,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11272000" />
+    <option name="totallyTimeSpent" value="12704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -451,14 +475,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27515724" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49722883" weight="0.37252125" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4858357" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49722883" weight="0.37165776" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5027712" side_tool="true" weight="0.4483986" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32719547" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -474,7 +498,7 @@
       <window_info anchor="right" id="Database" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18632708" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18632708" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -483,14 +507,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22946176" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49722883" weight="0.41359773" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4858357" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49722883" weight="0.37165776" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5027712" side_tool="true" weight="0.4483986" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32827735" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32719547" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -568,11 +592,6 @@
           <line>14</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leet_update/930.BinarySumarraysWithSum.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -581,7 +600,7 @@
     <SUITE FILE_PATH="coverage/LintCode$968_BinaryTreeCameras.coverage" NAME="968.BinaryTreeCameras Coverage Results" MODIFIED="1555747779000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
     <SUITE FILE_PATH="coverage/LintCode$846_HandOfStraights.coverage" NAME="846.HandOfStraights Coverage Results" MODIFIED="1556549424912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
     <SUITE FILE_PATH="coverage/LintCode$136_signleNumber.coverage" NAME="136.signleNumber Coverage Results" MODIFIED="1556448759594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
-    <SUITE FILE_PATH="coverage/LintCode$930_BinarySumarraysWithSum.coverage" NAME="930.BinarySumarraysWithSum Coverage Results" MODIFIED="1556550632755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
+    <SUITE FILE_PATH="coverage/LintCode$930_BinarySumarraysWithSum.coverage" NAME="930.BinarySumarraysWithSum Coverage Results" MODIFIED="1556890140058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leet/addTwoNumbers_002/solution.java">
@@ -712,8 +731,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leet_update/930.BinarySumarraysWithSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="403">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_update/813.LargestSumOfAve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
