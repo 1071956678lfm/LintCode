@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9639b7d7-fb4b-4143-934c-87aedab284c6" name="Default" comment="Q846" />
+    <list default="true" id="9639b7d7-fb4b-4143-934c-87aedab284c6" name="Default" comment="Q846">
+      <change afterPath="$PROJECT_DIR$/leet_update/300.LongestIncSubsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_update/677.MapSumPairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_update/678.ValidParenStr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_update/679.24Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_update/680.ValidPali2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LintCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LintCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_update/813.LargestSumOfAve.py" beforeDir="false" afterPath="$PROJECT_DIR$/leet_update/813.LargestSumOfAve.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +30,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leet_update/813.LargestSumOfAve.py">
+        <entry file="file://$PROJECT_DIR$/leet_update/679.24Game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="320">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -71,14 +81,19 @@
         <option value="$PROJECT_DIR$/leet_update/846.HandOfStraights.py" />
         <option value="$PROJECT_DIR$/leet_update/930.BinarySumarraysWithSum.py" />
         <option value="$PROJECT_DIR$/leet_update/813.LargestSumOfAve.py" />
+        <option value="$PROJECT_DIR$/leet_update/300.LongestIncSubsequence.py" />
+        <option value="$PROJECT_DIR$/leet_update/680.ValidPali2.py" />
+        <option value="$PROJECT_DIR$/leet_update/677.MapSumPairs.py" />
+        <option value="$PROJECT_DIR$/leet_update/678.ValidParenStr.py" />
+        <option value="$PROJECT_DIR$/leet_update/679.24Game.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="22" />
-    <option name="width" value="1800" />
-    <option name="height" value="1100" />
+    <option name="x" value="65" />
+    <option name="y" value="81" />
+    <option name="width" value="1717" />
+    <option name="height" value="1021" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -117,6 +132,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
+              <item name="leet_update" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -126,7 +158,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/Android" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/Project Python/data_analysis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -148,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.930.BinarySumarraysWithSum">
+  <component name="RunManager" selected="Python.678.ValidParenStr">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -229,7 +261,7 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <configuration name="136.signleNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="300.LongestIncSubsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LintCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,7 +274,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_update/136.signleNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_update/300.LongestIncSubsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="415.addStrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="677.MapSumPairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LintCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,7 +296,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_update/415.addStrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_update/677.MapSumPairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="633.SumOfSquareNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="678.ValidParenStr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LintCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,7 +318,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_update/633.SumOfSquareNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_update/678.ValidParenStr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +327,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="846.HandOfStraights" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="67.addBinary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LintCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,7 +340,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_update/846.HandOfStraights.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_update/67.addBinary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +349,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="930.BinarySumarraysWithSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="680.ValidPali2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LintCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,7 +362,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_update/930.BinarySumarraysWithSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_update/680.ValidPali2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,19 +395,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.968.BinaryTreeCameras" />
-      <item itemvalue="Python.415.addStrings" />
-      <item itemvalue="Python.136.signleNumber" />
-      <item itemvalue="Python.633.SumOfSquareNumbers" />
-      <item itemvalue="Python.846.HandOfStraights" />
-      <item itemvalue="Python.930.BinarySumarraysWithSum" />
+      <item itemvalue="Python.300.LongestIncSubsequence" />
+      <item itemvalue="Python.680.ValidPali2" />
+      <item itemvalue="Python.677.MapSumPairs" />
+      <item itemvalue="Python.67.addBinary" />
+      <item itemvalue="Python.678.ValidParenStr" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.930.BinarySumarraysWithSum" />
-        <item itemvalue="Python.846.HandOfStraights" />
-        <item itemvalue="Python.633.SumOfSquareNumbers" />
-        <item itemvalue="Python.136.signleNumber" />
-        <item itemvalue="Python.415.addStrings" />
+        <item itemvalue="Python.678.ValidParenStr" />
+        <item itemvalue="Python.67.addBinary" />
+        <item itemvalue="Python.677.MapSumPairs" />
+        <item itemvalue="Python.680.ValidPali2" />
+        <item itemvalue="Python.300.LongestIncSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -407,6 +439,10 @@
       <workItem from="1556762166185" duration="54000" />
       <workItem from="1556889194128" duration="1378000" />
       <workItem from="1556931268957" duration="506000" />
+      <workItem from="1559317110109" duration="1876000" />
+      <workItem from="1559352810875" duration="44000" />
+      <workItem from="1559377143503" duration="1034000" />
+      <workItem from="1559378818040" duration="2766000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1555687345718</created>
@@ -440,12 +476,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13210000" />
+    <option name="totallyTimeSpent" value="18930000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18632708" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15830816" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,13 +491,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4858357" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49722883" weight="0.37165776" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18693693" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49722883" weight="0.38273045" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5027712" side_tool="true" weight="0.4483986" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5027712" side_tool="true" weight="0.28375" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3314732" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32719547" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="11" />
@@ -477,7 +514,7 @@
       <window_info anchor="right" id="Database" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18632708" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15830816" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -486,14 +523,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4858357" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49722883" weight="0.37165776" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18693693" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49722883" visible="true" weight="0.38273045" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5027712" side_tool="true" weight="0.4483986" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5027712" side_tool="true" weight="0.28375" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3314732" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32719547" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -571,15 +608,30 @@
           <line>14</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leet_update/678.ValidParenStr.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leet_update/678.ValidParenStr.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LintCode$633_SumOfSquareNumbers.coverage" NAME="633.SumOfSquareNumbers Coverage Results" MODIFIED="1556548498625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
-    <SUITE FILE_PATH="coverage/LintCode$968_BinaryTreeCameras.coverage" NAME="968.BinaryTreeCameras Coverage Results" MODIFIED="1555747779000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
+    <SUITE FILE_PATH="coverage/LintCode$678_ValidParenStr.coverage" NAME="678.ValidParenStr Coverage Results" MODIFIED="1559381328860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
+    <SUITE FILE_PATH="coverage/LintCode$300_LongestIncSubsequence.coverage" NAME="300.LongestIncSubsequence Coverage Results" MODIFIED="1559318886344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
     <SUITE FILE_PATH="coverage/LintCode$846_HandOfStraights.coverage" NAME="846.HandOfStraights Coverage Results" MODIFIED="1556549424912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
     <SUITE FILE_PATH="coverage/LintCode$136_signleNumber.coverage" NAME="136.signleNumber Coverage Results" MODIFIED="1556448759594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
     <SUITE FILE_PATH="coverage/LintCode$930_BinarySumarraysWithSum.coverage" NAME="930.BinarySumarraysWithSum Coverage Results" MODIFIED="1556890140058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
+    <SUITE FILE_PATH="coverage/LintCode$968_BinaryTreeCameras.coverage" NAME="968.BinaryTreeCameras Coverage Results" MODIFIED="1555747779000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
+    <SUITE FILE_PATH="coverage/LintCode$677_MapSumPairs.coverage" NAME="677.MapSumPairs Coverage Results" MODIFIED="1559379173304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
+    <SUITE FILE_PATH="coverage/LintCode$67_addBinary.coverage" NAME="67.addBinary Coverage Results" MODIFIED="1559379232681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
+    <SUITE FILE_PATH="coverage/LintCode$680_ValidPali2.coverage" NAME="680.ValidPali2 Coverage Results" MODIFIED="1559377864162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leet/addTwoNumbers_002/solution.java">
@@ -701,13 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leet_update/846.HandOfStraights.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leet_update/930.BinarySumarraysWithSum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
@@ -718,10 +763,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leet_update/846.HandOfStraights.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-397">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leet_update/813.LargestSumOfAve.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="394">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_update/300.LongestIncSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_update/680.ValidPali2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_update/677.MapSumPairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_update/678.ValidParenStr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_update/679.24Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
