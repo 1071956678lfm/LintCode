@@ -1,7 +1,7 @@
-def deal(val):
-    for x in val[:-1]:
-        print('%.2f' % x, end=' ')
-    print('%.2f' % val[-1])
+import numpy as np
 
-
-di = eval(input())
+arr = [-0.8, 1.6, -0.5, 0.2, -1.6, 0.2, 1.6, 1, 0.8, 1, 1.7, 1.2, 1.9, 0, 0]
+m = np.mean(arr)
+val = sum([(m - x) ** 2 for x in arr])
+print(val / (len(arr) - 1))
+print(np.var(arr))
