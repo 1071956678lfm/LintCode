@@ -1,12 +1,11 @@
+package main.java;
+
 import libs.TreeNode;
 import org.junit.jupiter.api.Test;
 
 import java.util.LinkedList;
 import java.util.List;
-
-public class BinTreeIterator {
-
-}
+import java.util.Stack;
 
 /**
  * Implement an iterator over a binary search tree (BST).
@@ -18,21 +17,34 @@ class BSTIterator {
     private static List<Integer> list = new LinkedList<>();
     private static int index = 0;
 
+
     public BSTIterator(TreeNode root) {
-        init(root);
+        dfs(root);
+        System.out.println(list);
     }
 
-    private static void init(TreeNode root) {
-        if (null == root) {
+    private static void dfs(TreeNode root) {
+        Stack<TreeNode> stack = new Stack<>();
+        if (root == null)
             return;
-        }
-        if (root.left != null) {
-            init(root.left);
-        }
-        list.add(root.val);
-        if (root.right != null) {
-            init(root.right);
-        }
+        TreeNode ptr = root;
+        do {
+            if (ptr!=null) {
+                stack.push(ptr);
+                ptr = ptr.left;
+            }
+            while (null != ptr) {
+                stack.push(ptr);
+                ptr = ptr.left;
+            }
+            //add to the pre order list
+            if (!stack.isEmpty()) {
+                ptr = stack.pop();
+                list.add(ptr.val);
+            } else
+                break;
+            ptr = ptr.right;
+        } while (null != ptr || !stack.isEmpty());
     }
 
     /**
@@ -49,9 +61,12 @@ class BSTIterator {
         return index < list.size();
     }
 
-    @Test
-    public void run() {
-
+    public static void main(String[] args) {
+        TreeNode root = new TreeNode(5);
+        root.left = new TreeNode(4);
+        root.right = new TreeNode(10);
+        BSTIterator it = new BSTIterator(root);
+        System.out.println(it.hasNext());
     }
 }
 
