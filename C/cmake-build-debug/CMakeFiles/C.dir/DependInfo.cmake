@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/ics/Documents/repos/LC/C/main.cpp" "/Users/ics/Documents/repos/LC/C/cmake-build-debug/CMakeFiles/C.dir/main.cpp.o"
+  "/Users/mac/Documents/LC_lets_go/C/101.SymmetricTree/Solution.cpp" "/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.o"
+  "/Users/mac/Documents/LC_lets_go/C/148.SortList/Solution.cpp" "/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles/C.dir/148.SortList/Solution.cpp.o"
+  "/Users/mac/Documents/LC_lets_go/C/main.cpp" "/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles/C.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ics/Documents/repos/LC/C
+CMAKE_SOURCE_DIR = /Users/mac/Documents/LC_lets_go/C
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ics/Documents/repos/LC/C/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/mac/Documents/LC_lets_go/C/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/C.dir/depend.make
@@ -59,28 +59,58 @@ include CMakeFiles/C.dir/flags.make
 
 CMakeFiles/C.dir/main.cpp.o: CMakeFiles/C.dir/flags.make
 CMakeFiles/C.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ics/Documents/repos/LC/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/main.cpp.o -c /Users/ics/Documents/repos/LC/C/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/main.cpp.o -c /Users/mac/Documents/LC_lets_go/C/main.cpp
 
 CMakeFiles/C.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ics/Documents/repos/LC/C/main.cpp > CMakeFiles/C.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/main.cpp > CMakeFiles/C.dir/main.cpp.i
 
 CMakeFiles/C.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ics/Documents/repos/LC/C/main.cpp -o CMakeFiles/C.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/main.cpp -o CMakeFiles/C.dir/main.cpp.s
+
+CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.o: ../101.SymmetricTree/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.o -c /Users/mac/Documents/LC_lets_go/C/101.SymmetricTree/Solution.cpp
+
+CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/101.SymmetricTree/Solution.cpp > CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.i
+
+CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/101.SymmetricTree/Solution.cpp -o CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.s
+
+CMakeFiles/C.dir/148.SortList/Solution.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/148.SortList/Solution.cpp.o: ../148.SortList/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/C.dir/148.SortList/Solution.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/148.SortList/Solution.cpp.o -c /Users/mac/Documents/LC_lets_go/C/148.SortList/Solution.cpp
+
+CMakeFiles/C.dir/148.SortList/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/148.SortList/Solution.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/148.SortList/Solution.cpp > CMakeFiles/C.dir/148.SortList/Solution.cpp.i
+
+CMakeFiles/C.dir/148.SortList/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/148.SortList/Solution.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/148.SortList/Solution.cpp -o CMakeFiles/C.dir/148.SortList/Solution.cpp.s
 
 # Object files for target C
 C_OBJECTS = \
-"CMakeFiles/C.dir/main.cpp.o"
+"CMakeFiles/C.dir/main.cpp.o" \
+"CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.o" \
+"CMakeFiles/C.dir/148.SortList/Solution.cpp.o"
 
 # External object files for target C
 C_EXTERNAL_OBJECTS =
 
 C : CMakeFiles/C.dir/main.cpp.o
+C : CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.o
+C : CMakeFiles/C.dir/148.SortList/Solution.cpp.o
 C : CMakeFiles/C.dir/build.make
 C : CMakeFiles/C.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/ics/Documents/repos/LC/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable C"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +123,6 @@ CMakeFiles/C.dir/clean:
 .PHONY : CMakeFiles/C.dir/clean
 
 CMakeFiles/C.dir/depend:
-	cd /Users/ics/Documents/repos/LC/C/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ics/Documents/repos/LC/C /Users/ics/Documents/repos/LC/C /Users/ics/Documents/repos/LC/C/cmake-build-debug /Users/ics/Documents/repos/LC/C/cmake-build-debug /Users/ics/Documents/repos/LC/C/cmake-build-debug/CMakeFiles/C.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/mac/Documents/LC_lets_go/C/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/mac/Documents/LC_lets_go/C /Users/mac/Documents/LC_lets_go/C /Users/mac/Documents/LC_lets_go/C/cmake-build-debug /Users/mac/Documents/LC_lets_go/C/cmake-build-debug /Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles/C.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/C.dir/depend
 

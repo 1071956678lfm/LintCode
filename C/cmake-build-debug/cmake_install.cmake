@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ics/Documents/repos/LC/C
+# Install script for directory: /Users/mac/Documents/LC_lets_go/C
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/ics/Documents/repos/LC/C/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

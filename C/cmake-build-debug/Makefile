@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ics/Documents/repos/LC/C
+CMAKE_SOURCE_DIR = /Users/mac/Documents/LC_lets_go/C
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ics/Documents/repos/LC/C/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/mac/Documents/LC_lets_go/C/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ics/Documents/repos/LC/C/cmake-build-debug/CMakeFiles /Users/ics/Documents/repos/LC/C/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles /Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ics/Documents/repos/LC/C/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,6 +123,60 @@ C/fast:
 	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/build
 .PHONY : C/fast
 
+101.SymmetricTree/Solution.o: 101.SymmetricTree/Solution.cpp.o
+
+.PHONY : 101.SymmetricTree/Solution.o
+
+# target to build an object file
+101.SymmetricTree/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.o
+.PHONY : 101.SymmetricTree/Solution.cpp.o
+
+101.SymmetricTree/Solution.i: 101.SymmetricTree/Solution.cpp.i
+
+.PHONY : 101.SymmetricTree/Solution.i
+
+# target to preprocess a source file
+101.SymmetricTree/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.i
+.PHONY : 101.SymmetricTree/Solution.cpp.i
+
+101.SymmetricTree/Solution.s: 101.SymmetricTree/Solution.cpp.s
+
+.PHONY : 101.SymmetricTree/Solution.s
+
+# target to generate assembly for a file
+101.SymmetricTree/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.s
+.PHONY : 101.SymmetricTree/Solution.cpp.s
+
+148.SortList/Solution.o: 148.SortList/Solution.cpp.o
+
+.PHONY : 148.SortList/Solution.o
+
+# target to build an object file
+148.SortList/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/148.SortList/Solution.cpp.o
+.PHONY : 148.SortList/Solution.cpp.o
+
+148.SortList/Solution.i: 148.SortList/Solution.cpp.i
+
+.PHONY : 148.SortList/Solution.i
+
+# target to preprocess a source file
+148.SortList/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/148.SortList/Solution.cpp.i
+.PHONY : 148.SortList/Solution.cpp.i
+
+148.SortList/Solution.s: 148.SortList/Solution.cpp.s
+
+.PHONY : 148.SortList/Solution.s
+
+# target to generate assembly for a file
+148.SortList/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/148.SortList/Solution.cpp.s
+.PHONY : 148.SortList/Solution.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +213,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... C"
+	@echo "... 101.SymmetricTree/Solution.o"
+	@echo "... 101.SymmetricTree/Solution.i"
+	@echo "... 101.SymmetricTree/Solution.s"
+	@echo "... 148.SortList/Solution.o"
+	@echo "... 148.SortList/Solution.i"
+	@echo "... 148.SortList/Solution.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
