@@ -2,8 +2,6 @@
 // Created by mac on 2019/9/2.
 //
 
-#include <iostream>
-#include <altivec.h>
 //归并
 //#define MERGE_SORT
 //快速排序

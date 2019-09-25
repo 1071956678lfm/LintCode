@@ -150,6 +150,33 @@ C/fast:
 	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.s
 .PHONY : 101.SymmetricTree/Solution.cpp.s
 
+1041.IsRobotStuck/Solution.o: 1041.IsRobotStuck/Solution.cpp.o
+
+.PHONY : 1041.IsRobotStuck/Solution.o
+
+# target to build an object file
+1041.IsRobotStuck/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.o
+.PHONY : 1041.IsRobotStuck/Solution.cpp.o
+
+1041.IsRobotStuck/Solution.i: 1041.IsRobotStuck/Solution.cpp.i
+
+.PHONY : 1041.IsRobotStuck/Solution.i
+
+# target to preprocess a source file
+1041.IsRobotStuck/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.i
+.PHONY : 1041.IsRobotStuck/Solution.cpp.i
+
+1041.IsRobotStuck/Solution.s: 1041.IsRobotStuck/Solution.cpp.s
+
+.PHONY : 1041.IsRobotStuck/Solution.s
+
+# target to generate assembly for a file
+1041.IsRobotStuck/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.s
+.PHONY : 1041.IsRobotStuck/Solution.cpp.s
+
 148.SortList/Solution.o: 148.SortList/Solution.cpp.o
 
 .PHONY : 148.SortList/Solution.o
@@ -176,6 +203,465 @@ C/fast:
 148.SortList/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/148.SortList/Solution.cpp.s
 .PHONY : 148.SortList/Solution.cpp.s
+
+150.EvaluatePolish/Solution.o: 150.EvaluatePolish/Solution.cpp.o
+
+.PHONY : 150.EvaluatePolish/Solution.o
+
+# target to build an object file
+150.EvaluatePolish/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.o
+.PHONY : 150.EvaluatePolish/Solution.cpp.o
+
+150.EvaluatePolish/Solution.i: 150.EvaluatePolish/Solution.cpp.i
+
+.PHONY : 150.EvaluatePolish/Solution.i
+
+# target to preprocess a source file
+150.EvaluatePolish/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.i
+.PHONY : 150.EvaluatePolish/Solution.cpp.i
+
+150.EvaluatePolish/Solution.s: 150.EvaluatePolish/Solution.cpp.s
+
+.PHONY : 150.EvaluatePolish/Solution.s
+
+# target to generate assembly for a file
+150.EvaluatePolish/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.s
+.PHONY : 150.EvaluatePolish/Solution.cpp.s
+
+167.TwoSum2/Solution.o: 167.TwoSum2/Solution.cpp.o
+
+.PHONY : 167.TwoSum2/Solution.o
+
+# target to build an object file
+167.TwoSum2/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.o
+.PHONY : 167.TwoSum2/Solution.cpp.o
+
+167.TwoSum2/Solution.i: 167.TwoSum2/Solution.cpp.i
+
+.PHONY : 167.TwoSum2/Solution.i
+
+# target to preprocess a source file
+167.TwoSum2/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.i
+.PHONY : 167.TwoSum2/Solution.cpp.i
+
+167.TwoSum2/Solution.s: 167.TwoSum2/Solution.cpp.s
+
+.PHONY : 167.TwoSum2/Solution.s
+
+# target to generate assembly for a file
+167.TwoSum2/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.s
+.PHONY : 167.TwoSum2/Solution.cpp.s
+
+406.QueueReconstruction/Solution.o: 406.QueueReconstruction/Solution.cpp.o
+
+.PHONY : 406.QueueReconstruction/Solution.o
+
+# target to build an object file
+406.QueueReconstruction/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.o
+.PHONY : 406.QueueReconstruction/Solution.cpp.o
+
+406.QueueReconstruction/Solution.i: 406.QueueReconstruction/Solution.cpp.i
+
+.PHONY : 406.QueueReconstruction/Solution.i
+
+# target to preprocess a source file
+406.QueueReconstruction/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.i
+.PHONY : 406.QueueReconstruction/Solution.cpp.i
+
+406.QueueReconstruction/Solution.s: 406.QueueReconstruction/Solution.cpp.s
+
+.PHONY : 406.QueueReconstruction/Solution.s
+
+# target to generate assembly for a file
+406.QueueReconstruction/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.s
+.PHONY : 406.QueueReconstruction/Solution.cpp.s
+
+419.CountBattleShips/Solution.o: 419.CountBattleShips/Solution.cpp.o
+
+.PHONY : 419.CountBattleShips/Solution.o
+
+# target to build an object file
+419.CountBattleShips/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.o
+.PHONY : 419.CountBattleShips/Solution.cpp.o
+
+419.CountBattleShips/Solution.i: 419.CountBattleShips/Solution.cpp.i
+
+.PHONY : 419.CountBattleShips/Solution.i
+
+# target to preprocess a source file
+419.CountBattleShips/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.i
+.PHONY : 419.CountBattleShips/Solution.cpp.i
+
+419.CountBattleShips/Solution.s: 419.CountBattleShips/Solution.cpp.s
+
+.PHONY : 419.CountBattleShips/Solution.s
+
+# target to generate assembly for a file
+419.CountBattleShips/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.s
+.PHONY : 419.CountBattleShips/Solution.cpp.s
+
+438.FindAllAnagrams/Solution.o: 438.FindAllAnagrams/Solution.cpp.o
+
+.PHONY : 438.FindAllAnagrams/Solution.o
+
+# target to build an object file
+438.FindAllAnagrams/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.o
+.PHONY : 438.FindAllAnagrams/Solution.cpp.o
+
+438.FindAllAnagrams/Solution.i: 438.FindAllAnagrams/Solution.cpp.i
+
+.PHONY : 438.FindAllAnagrams/Solution.i
+
+# target to preprocess a source file
+438.FindAllAnagrams/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.i
+.PHONY : 438.FindAllAnagrams/Solution.cpp.i
+
+438.FindAllAnagrams/Solution.s: 438.FindAllAnagrams/Solution.cpp.s
+
+.PHONY : 438.FindAllAnagrams/Solution.s
+
+# target to generate assembly for a file
+438.FindAllAnagrams/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.s
+.PHONY : 438.FindAllAnagrams/Solution.cpp.s
+
+513.FindButtomTree/Solution.o: 513.FindButtomTree/Solution.cpp.o
+
+.PHONY : 513.FindButtomTree/Solution.o
+
+# target to build an object file
+513.FindButtomTree/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.o
+.PHONY : 513.FindButtomTree/Solution.cpp.o
+
+513.FindButtomTree/Solution.i: 513.FindButtomTree/Solution.cpp.i
+
+.PHONY : 513.FindButtomTree/Solution.i
+
+# target to preprocess a source file
+513.FindButtomTree/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.i
+.PHONY : 513.FindButtomTree/Solution.cpp.i
+
+513.FindButtomTree/Solution.s: 513.FindButtomTree/Solution.cpp.s
+
+.PHONY : 513.FindButtomTree/Solution.s
+
+# target to generate assembly for a file
+513.FindButtomTree/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.s
+.PHONY : 513.FindButtomTree/Solution.cpp.s
+
+740.DeleteAndEarn/Solution.o: 740.DeleteAndEarn/Solution.cpp.o
+
+.PHONY : 740.DeleteAndEarn/Solution.o
+
+# target to build an object file
+740.DeleteAndEarn/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.o
+.PHONY : 740.DeleteAndEarn/Solution.cpp.o
+
+740.DeleteAndEarn/Solution.i: 740.DeleteAndEarn/Solution.cpp.i
+
+.PHONY : 740.DeleteAndEarn/Solution.i
+
+# target to preprocess a source file
+740.DeleteAndEarn/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.i
+.PHONY : 740.DeleteAndEarn/Solution.cpp.i
+
+740.DeleteAndEarn/Solution.s: 740.DeleteAndEarn/Solution.cpp.s
+
+.PHONY : 740.DeleteAndEarn/Solution.s
+
+# target to generate assembly for a file
+740.DeleteAndEarn/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.s
+.PHONY : 740.DeleteAndEarn/Solution.cpp.s
+
+homework1/LongestPali.o: homework1/LongestPali.cpp.o
+
+.PHONY : homework1/LongestPali.o
+
+# target to build an object file
+homework1/LongestPali.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/LongestPali.cpp.o
+.PHONY : homework1/LongestPali.cpp.o
+
+homework1/LongestPali.i: homework1/LongestPali.cpp.i
+
+.PHONY : homework1/LongestPali.i
+
+# target to preprocess a source file
+homework1/LongestPali.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/LongestPali.cpp.i
+.PHONY : homework1/LongestPali.cpp.i
+
+homework1/LongestPali.s: homework1/LongestPali.cpp.s
+
+.PHONY : homework1/LongestPali.s
+
+# target to generate assembly for a file
+homework1/LongestPali.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/LongestPali.cpp.s
+.PHONY : homework1/LongestPali.cpp.s
+
+homework1/q23.o: homework1/q23.cpp.o
+
+.PHONY : homework1/q23.o
+
+# target to build an object file
+homework1/q23.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q23.cpp.o
+.PHONY : homework1/q23.cpp.o
+
+homework1/q23.i: homework1/q23.cpp.i
+
+.PHONY : homework1/q23.i
+
+# target to preprocess a source file
+homework1/q23.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q23.cpp.i
+.PHONY : homework1/q23.cpp.i
+
+homework1/q23.s: homework1/q23.cpp.s
+
+.PHONY : homework1/q23.s
+
+# target to generate assembly for a file
+homework1/q23.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q23.cpp.s
+.PHONY : homework1/q23.cpp.s
+
+homework1/q24.o: homework1/q24.cpp.o
+
+.PHONY : homework1/q24.o
+
+# target to build an object file
+homework1/q24.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q24.cpp.o
+.PHONY : homework1/q24.cpp.o
+
+homework1/q24.i: homework1/q24.cpp.i
+
+.PHONY : homework1/q24.i
+
+# target to preprocess a source file
+homework1/q24.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q24.cpp.i
+.PHONY : homework1/q24.cpp.i
+
+homework1/q24.s: homework1/q24.cpp.s
+
+.PHONY : homework1/q24.s
+
+# target to generate assembly for a file
+homework1/q24.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q24.cpp.s
+.PHONY : homework1/q24.cpp.s
+
+homework1/q27.o: homework1/q27.cpp.o
+
+.PHONY : homework1/q27.o
+
+# target to build an object file
+homework1/q27.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q27.cpp.o
+.PHONY : homework1/q27.cpp.o
+
+homework1/q27.i: homework1/q27.cpp.i
+
+.PHONY : homework1/q27.i
+
+# target to preprocess a source file
+homework1/q27.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q27.cpp.i
+.PHONY : homework1/q27.cpp.i
+
+homework1/q27.s: homework1/q27.cpp.s
+
+.PHONY : homework1/q27.s
+
+# target to generate assembly for a file
+homework1/q27.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q27.cpp.s
+.PHONY : homework1/q27.cpp.s
+
+homework1/q32.o: homework1/q32.cpp.o
+
+.PHONY : homework1/q32.o
+
+# target to build an object file
+homework1/q32.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q32.cpp.o
+.PHONY : homework1/q32.cpp.o
+
+homework1/q32.i: homework1/q32.cpp.i
+
+.PHONY : homework1/q32.i
+
+# target to preprocess a source file
+homework1/q32.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q32.cpp.i
+.PHONY : homework1/q32.cpp.i
+
+homework1/q32.s: homework1/q32.cpp.s
+
+.PHONY : homework1/q32.s
+
+# target to generate assembly for a file
+homework1/q32.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q32.cpp.s
+.PHONY : homework1/q32.cpp.s
+
+homework1/q34.o: homework1/q34.cpp.o
+
+.PHONY : homework1/q34.o
+
+# target to build an object file
+homework1/q34.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q34.cpp.o
+.PHONY : homework1/q34.cpp.o
+
+homework1/q34.i: homework1/q34.cpp.i
+
+.PHONY : homework1/q34.i
+
+# target to preprocess a source file
+homework1/q34.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q34.cpp.i
+.PHONY : homework1/q34.cpp.i
+
+homework1/q34.s: homework1/q34.cpp.s
+
+.PHONY : homework1/q34.s
+
+# target to generate assembly for a file
+homework1/q34.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q34.cpp.s
+.PHONY : homework1/q34.cpp.s
+
+homework1/q35.o: homework1/q35.cpp.o
+
+.PHONY : homework1/q35.o
+
+# target to build an object file
+homework1/q35.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q35.cpp.o
+.PHONY : homework1/q35.cpp.o
+
+homework1/q35.i: homework1/q35.cpp.i
+
+.PHONY : homework1/q35.i
+
+# target to preprocess a source file
+homework1/q35.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q35.cpp.i
+.PHONY : homework1/q35.cpp.i
+
+homework1/q35.s: homework1/q35.cpp.s
+
+.PHONY : homework1/q35.s
+
+# target to generate assembly for a file
+homework1/q35.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q35.cpp.s
+.PHONY : homework1/q35.cpp.s
+
+homework1/q36.o: homework1/q36.cpp.o
+
+.PHONY : homework1/q36.o
+
+# target to build an object file
+homework1/q36.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q36.cpp.o
+.PHONY : homework1/q36.cpp.o
+
+homework1/q36.i: homework1/q36.cpp.i
+
+.PHONY : homework1/q36.i
+
+# target to preprocess a source file
+homework1/q36.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q36.cpp.i
+.PHONY : homework1/q36.cpp.i
+
+homework1/q36.s: homework1/q36.cpp.s
+
+.PHONY : homework1/q36.s
+
+# target to generate assembly for a file
+homework1/q36.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q36.cpp.s
+.PHONY : homework1/q36.cpp.s
+
+homework1/q38.o: homework1/q38.cpp.o
+
+.PHONY : homework1/q38.o
+
+# target to build an object file
+homework1/q38.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q38.cpp.o
+.PHONY : homework1/q38.cpp.o
+
+homework1/q38.i: homework1/q38.cpp.i
+
+.PHONY : homework1/q38.i
+
+# target to preprocess a source file
+homework1/q38.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q38.cpp.i
+.PHONY : homework1/q38.cpp.i
+
+homework1/q38.s: homework1/q38.cpp.s
+
+.PHONY : homework1/q38.s
+
+# target to generate assembly for a file
+homework1/q38.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q38.cpp.s
+.PHONY : homework1/q38.cpp.s
+
+homework1/q39.o: homework1/q39.cpp.o
+
+.PHONY : homework1/q39.o
+
+# target to build an object file
+homework1/q39.cpp.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q39.cpp.o
+.PHONY : homework1/q39.cpp.o
+
+homework1/q39.i: homework1/q39.cpp.i
+
+.PHONY : homework1/q39.i
+
+# target to preprocess a source file
+homework1/q39.cpp.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q39.cpp.i
+.PHONY : homework1/q39.cpp.i
+
+homework1/q39.s: homework1/q39.cpp.s
+
+.PHONY : homework1/q39.s
+
+# target to generate assembly for a file
+homework1/q39.cpp.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/homework1/q39.cpp.s
+.PHONY : homework1/q39.cpp.s
 
 main.o: main.cpp.o
 
@@ -216,9 +702,63 @@ help:
 	@echo "... 101.SymmetricTree/Solution.o"
 	@echo "... 101.SymmetricTree/Solution.i"
 	@echo "... 101.SymmetricTree/Solution.s"
+	@echo "... 1041.IsRobotStuck/Solution.o"
+	@echo "... 1041.IsRobotStuck/Solution.i"
+	@echo "... 1041.IsRobotStuck/Solution.s"
 	@echo "... 148.SortList/Solution.o"
 	@echo "... 148.SortList/Solution.i"
 	@echo "... 148.SortList/Solution.s"
+	@echo "... 150.EvaluatePolish/Solution.o"
+	@echo "... 150.EvaluatePolish/Solution.i"
+	@echo "... 150.EvaluatePolish/Solution.s"
+	@echo "... 167.TwoSum2/Solution.o"
+	@echo "... 167.TwoSum2/Solution.i"
+	@echo "... 167.TwoSum2/Solution.s"
+	@echo "... 406.QueueReconstruction/Solution.o"
+	@echo "... 406.QueueReconstruction/Solution.i"
+	@echo "... 406.QueueReconstruction/Solution.s"
+	@echo "... 419.CountBattleShips/Solution.o"
+	@echo "... 419.CountBattleShips/Solution.i"
+	@echo "... 419.CountBattleShips/Solution.s"
+	@echo "... 438.FindAllAnagrams/Solution.o"
+	@echo "... 438.FindAllAnagrams/Solution.i"
+	@echo "... 438.FindAllAnagrams/Solution.s"
+	@echo "... 513.FindButtomTree/Solution.o"
+	@echo "... 513.FindButtomTree/Solution.i"
+	@echo "... 513.FindButtomTree/Solution.s"
+	@echo "... 740.DeleteAndEarn/Solution.o"
+	@echo "... 740.DeleteAndEarn/Solution.i"
+	@echo "... 740.DeleteAndEarn/Solution.s"
+	@echo "... homework1/LongestPali.o"
+	@echo "... homework1/LongestPali.i"
+	@echo "... homework1/LongestPali.s"
+	@echo "... homework1/q23.o"
+	@echo "... homework1/q23.i"
+	@echo "... homework1/q23.s"
+	@echo "... homework1/q24.o"
+	@echo "... homework1/q24.i"
+	@echo "... homework1/q24.s"
+	@echo "... homework1/q27.o"
+	@echo "... homework1/q27.i"
+	@echo "... homework1/q27.s"
+	@echo "... homework1/q32.o"
+	@echo "... homework1/q32.i"
+	@echo "... homework1/q32.s"
+	@echo "... homework1/q34.o"
+	@echo "... homework1/q34.i"
+	@echo "... homework1/q34.s"
+	@echo "... homework1/q35.o"
+	@echo "... homework1/q35.i"
+	@echo "... homework1/q35.s"
+	@echo "... homework1/q36.o"
+	@echo "... homework1/q36.i"
+	@echo "... homework1/q36.s"
+	@echo "... homework1/q38.o"
+	@echo "... homework1/q38.i"
+	@echo "... homework1/q38.s"
+	@echo "... homework1/q39.o"
+	@echo "... homework1/q39.i"
+	@echo "... homework1/q39.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

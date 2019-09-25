@@ -96,11 +96,263 @@ CMakeFiles/C.dir/148.SortList/Solution.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/148.SortList/Solution.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/148.SortList/Solution.cpp -o CMakeFiles/C.dir/148.SortList/Solution.cpp.s
 
+CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.o: ../406.QueueReconstruction/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.o -c /Users/mac/Documents/LC_lets_go/C/406.QueueReconstruction/Solution.cpp
+
+CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/406.QueueReconstruction/Solution.cpp > CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.i
+
+CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/406.QueueReconstruction/Solution.cpp -o CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.s
+
+CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.o: ../1041.IsRobotStuck/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.o -c /Users/mac/Documents/LC_lets_go/C/1041.IsRobotStuck/Solution.cpp
+
+CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/1041.IsRobotStuck/Solution.cpp > CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.i
+
+CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/1041.IsRobotStuck/Solution.cpp -o CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.s
+
+CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.o: ../167.TwoSum2/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.o -c /Users/mac/Documents/LC_lets_go/C/167.TwoSum2/Solution.cpp
+
+CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/167.TwoSum2/Solution.cpp > CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.i
+
+CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/167.TwoSum2/Solution.cpp -o CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.s
+
+CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.o: ../513.FindButtomTree/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.o -c /Users/mac/Documents/LC_lets_go/C/513.FindButtomTree/Solution.cpp
+
+CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/513.FindButtomTree/Solution.cpp > CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.i
+
+CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/513.FindButtomTree/Solution.cpp -o CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.s
+
+CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.o: ../150.EvaluatePolish/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.o -c /Users/mac/Documents/LC_lets_go/C/150.EvaluatePolish/Solution.cpp
+
+CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/150.EvaluatePolish/Solution.cpp > CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.i
+
+CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/150.EvaluatePolish/Solution.cpp -o CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.s
+
+CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.o: ../438.FindAllAnagrams/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.o -c /Users/mac/Documents/LC_lets_go/C/438.FindAllAnagrams/Solution.cpp
+
+CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/438.FindAllAnagrams/Solution.cpp > CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.i
+
+CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/438.FindAllAnagrams/Solution.cpp -o CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.s
+
+CMakeFiles/C.dir/homework1/q23.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/homework1/q23.cpp.o: ../homework1/q23.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/C.dir/homework1/q23.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/homework1/q23.cpp.o -c /Users/mac/Documents/LC_lets_go/C/homework1/q23.cpp
+
+CMakeFiles/C.dir/homework1/q23.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/homework1/q23.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/homework1/q23.cpp > CMakeFiles/C.dir/homework1/q23.cpp.i
+
+CMakeFiles/C.dir/homework1/q23.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/homework1/q23.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/homework1/q23.cpp -o CMakeFiles/C.dir/homework1/q23.cpp.s
+
+CMakeFiles/C.dir/homework1/q24.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/homework1/q24.cpp.o: ../homework1/q24.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/C.dir/homework1/q24.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/homework1/q24.cpp.o -c /Users/mac/Documents/LC_lets_go/C/homework1/q24.cpp
+
+CMakeFiles/C.dir/homework1/q24.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/homework1/q24.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/homework1/q24.cpp > CMakeFiles/C.dir/homework1/q24.cpp.i
+
+CMakeFiles/C.dir/homework1/q24.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/homework1/q24.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/homework1/q24.cpp -o CMakeFiles/C.dir/homework1/q24.cpp.s
+
+CMakeFiles/C.dir/homework1/q27.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/homework1/q27.cpp.o: ../homework1/q27.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/C.dir/homework1/q27.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/homework1/q27.cpp.o -c /Users/mac/Documents/LC_lets_go/C/homework1/q27.cpp
+
+CMakeFiles/C.dir/homework1/q27.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/homework1/q27.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/homework1/q27.cpp > CMakeFiles/C.dir/homework1/q27.cpp.i
+
+CMakeFiles/C.dir/homework1/q27.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/homework1/q27.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/homework1/q27.cpp -o CMakeFiles/C.dir/homework1/q27.cpp.s
+
+CMakeFiles/C.dir/homework1/q32.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/homework1/q32.cpp.o: ../homework1/q32.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/C.dir/homework1/q32.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/homework1/q32.cpp.o -c /Users/mac/Documents/LC_lets_go/C/homework1/q32.cpp
+
+CMakeFiles/C.dir/homework1/q32.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/homework1/q32.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/homework1/q32.cpp > CMakeFiles/C.dir/homework1/q32.cpp.i
+
+CMakeFiles/C.dir/homework1/q32.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/homework1/q32.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/homework1/q32.cpp -o CMakeFiles/C.dir/homework1/q32.cpp.s
+
+CMakeFiles/C.dir/homework1/q34.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/homework1/q34.cpp.o: ../homework1/q34.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/C.dir/homework1/q34.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/homework1/q34.cpp.o -c /Users/mac/Documents/LC_lets_go/C/homework1/q34.cpp
+
+CMakeFiles/C.dir/homework1/q34.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/homework1/q34.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/homework1/q34.cpp > CMakeFiles/C.dir/homework1/q34.cpp.i
+
+CMakeFiles/C.dir/homework1/q34.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/homework1/q34.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/homework1/q34.cpp -o CMakeFiles/C.dir/homework1/q34.cpp.s
+
+CMakeFiles/C.dir/homework1/q35.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/homework1/q35.cpp.o: ../homework1/q35.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/C.dir/homework1/q35.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/homework1/q35.cpp.o -c /Users/mac/Documents/LC_lets_go/C/homework1/q35.cpp
+
+CMakeFiles/C.dir/homework1/q35.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/homework1/q35.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/homework1/q35.cpp > CMakeFiles/C.dir/homework1/q35.cpp.i
+
+CMakeFiles/C.dir/homework1/q35.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/homework1/q35.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/homework1/q35.cpp -o CMakeFiles/C.dir/homework1/q35.cpp.s
+
+CMakeFiles/C.dir/homework1/q36.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/homework1/q36.cpp.o: ../homework1/q36.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/C.dir/homework1/q36.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/homework1/q36.cpp.o -c /Users/mac/Documents/LC_lets_go/C/homework1/q36.cpp
+
+CMakeFiles/C.dir/homework1/q36.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/homework1/q36.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/homework1/q36.cpp > CMakeFiles/C.dir/homework1/q36.cpp.i
+
+CMakeFiles/C.dir/homework1/q36.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/homework1/q36.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/homework1/q36.cpp -o CMakeFiles/C.dir/homework1/q36.cpp.s
+
+CMakeFiles/C.dir/homework1/q38.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/homework1/q38.cpp.o: ../homework1/q38.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/C.dir/homework1/q38.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/homework1/q38.cpp.o -c /Users/mac/Documents/LC_lets_go/C/homework1/q38.cpp
+
+CMakeFiles/C.dir/homework1/q38.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/homework1/q38.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/homework1/q38.cpp > CMakeFiles/C.dir/homework1/q38.cpp.i
+
+CMakeFiles/C.dir/homework1/q38.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/homework1/q38.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/homework1/q38.cpp -o CMakeFiles/C.dir/homework1/q38.cpp.s
+
+CMakeFiles/C.dir/homework1/q39.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/homework1/q39.cpp.o: ../homework1/q39.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/C.dir/homework1/q39.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/homework1/q39.cpp.o -c /Users/mac/Documents/LC_lets_go/C/homework1/q39.cpp
+
+CMakeFiles/C.dir/homework1/q39.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/homework1/q39.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/homework1/q39.cpp > CMakeFiles/C.dir/homework1/q39.cpp.i
+
+CMakeFiles/C.dir/homework1/q39.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/homework1/q39.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/homework1/q39.cpp -o CMakeFiles/C.dir/homework1/q39.cpp.s
+
+CMakeFiles/C.dir/homework1/LongestPali.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/homework1/LongestPali.cpp.o: ../homework1/LongestPali.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/C.dir/homework1/LongestPali.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/homework1/LongestPali.cpp.o -c /Users/mac/Documents/LC_lets_go/C/homework1/LongestPali.cpp
+
+CMakeFiles/C.dir/homework1/LongestPali.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/homework1/LongestPali.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/homework1/LongestPali.cpp > CMakeFiles/C.dir/homework1/LongestPali.cpp.i
+
+CMakeFiles/C.dir/homework1/LongestPali.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/homework1/LongestPali.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/homework1/LongestPali.cpp -o CMakeFiles/C.dir/homework1/LongestPali.cpp.s
+
+CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.o: ../740.DeleteAndEarn/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.o -c /Users/mac/Documents/LC_lets_go/C/740.DeleteAndEarn/Solution.cpp
+
+CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/740.DeleteAndEarn/Solution.cpp > CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.i
+
+CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/740.DeleteAndEarn/Solution.cpp -o CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.s
+
+CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.o: ../419.CountBattleShips/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.o -c /Users/mac/Documents/LC_lets_go/C/419.CountBattleShips/Solution.cpp
+
+CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/Documents/LC_lets_go/C/419.CountBattleShips/Solution.cpp > CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.i
+
+CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/Documents/LC_lets_go/C/419.CountBattleShips/Solution.cpp -o CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.s
+
 # Object files for target C
 C_OBJECTS = \
 "CMakeFiles/C.dir/main.cpp.o" \
 "CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.o" \
-"CMakeFiles/C.dir/148.SortList/Solution.cpp.o"
+"CMakeFiles/C.dir/148.SortList/Solution.cpp.o" \
+"CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.o" \
+"CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.o" \
+"CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.o" \
+"CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.o" \
+"CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.o" \
+"CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.o" \
+"CMakeFiles/C.dir/homework1/q23.cpp.o" \
+"CMakeFiles/C.dir/homework1/q24.cpp.o" \
+"CMakeFiles/C.dir/homework1/q27.cpp.o" \
+"CMakeFiles/C.dir/homework1/q32.cpp.o" \
+"CMakeFiles/C.dir/homework1/q34.cpp.o" \
+"CMakeFiles/C.dir/homework1/q35.cpp.o" \
+"CMakeFiles/C.dir/homework1/q36.cpp.o" \
+"CMakeFiles/C.dir/homework1/q38.cpp.o" \
+"CMakeFiles/C.dir/homework1/q39.cpp.o" \
+"CMakeFiles/C.dir/homework1/LongestPali.cpp.o" \
+"CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.o" \
+"CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.o"
 
 # External object files for target C
 C_EXTERNAL_OBJECTS =
@@ -108,9 +360,27 @@ C_EXTERNAL_OBJECTS =
 C : CMakeFiles/C.dir/main.cpp.o
 C : CMakeFiles/C.dir/101.SymmetricTree/Solution.cpp.o
 C : CMakeFiles/C.dir/148.SortList/Solution.cpp.o
+C : CMakeFiles/C.dir/406.QueueReconstruction/Solution.cpp.o
+C : CMakeFiles/C.dir/1041.IsRobotStuck/Solution.cpp.o
+C : CMakeFiles/C.dir/167.TwoSum2/Solution.cpp.o
+C : CMakeFiles/C.dir/513.FindButtomTree/Solution.cpp.o
+C : CMakeFiles/C.dir/150.EvaluatePolish/Solution.cpp.o
+C : CMakeFiles/C.dir/438.FindAllAnagrams/Solution.cpp.o
+C : CMakeFiles/C.dir/homework1/q23.cpp.o
+C : CMakeFiles/C.dir/homework1/q24.cpp.o
+C : CMakeFiles/C.dir/homework1/q27.cpp.o
+C : CMakeFiles/C.dir/homework1/q32.cpp.o
+C : CMakeFiles/C.dir/homework1/q34.cpp.o
+C : CMakeFiles/C.dir/homework1/q35.cpp.o
+C : CMakeFiles/C.dir/homework1/q36.cpp.o
+C : CMakeFiles/C.dir/homework1/q38.cpp.o
+C : CMakeFiles/C.dir/homework1/q39.cpp.o
+C : CMakeFiles/C.dir/homework1/LongestPali.cpp.o
+C : CMakeFiles/C.dir/740.DeleteAndEarn/Solution.cpp.o
+C : CMakeFiles/C.dir/419.CountBattleShips/Solution.cpp.o
 C : CMakeFiles/C.dir/build.make
 C : CMakeFiles/C.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mac/Documents/LC_lets_go/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable C"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

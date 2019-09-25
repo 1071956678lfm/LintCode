@@ -13,7 +13,7 @@ import java.util.Stack;
  * <p>
  * Calling next() will return the next smallest number in the BST.
  */
-class BSTIterator {
+public class BSTIterator {
     private static List<Integer> list = new LinkedList<>();
     private static int index = 0;
 

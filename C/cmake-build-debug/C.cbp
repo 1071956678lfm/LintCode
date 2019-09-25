@@ -83,7 +83,61 @@
 		<Unit filename="/Users/mac/Documents/LC_lets_go/C/101.SymmetricTree/Solution.cpp">
 			<Option target="C"/>
 		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/1041.IsRobotStuck/Solution.cpp">
+			<Option target="C"/>
+		</Unit>
 		<Unit filename="/Users/mac/Documents/LC_lets_go/C/148.SortList/Solution.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/150.EvaluatePolish/Solution.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/167.TwoSum2/Solution.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/406.QueueReconstruction/Solution.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/419.CountBattleShips/Solution.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/438.FindAllAnagrams/Solution.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/513.FindButtomTree/Solution.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/740.DeleteAndEarn/Solution.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/homework1/LongestPali.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/homework1/q23.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/homework1/q24.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/homework1/q27.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/homework1/q32.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/homework1/q34.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/homework1/q35.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/homework1/q36.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/homework1/q38.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/mac/Documents/LC_lets_go/C/homework1/q39.cpp">
 			<Option target="C"/>
 		</Unit>
 		<Unit filename="/Users/mac/Documents/LC_lets_go/C/main.cpp">
