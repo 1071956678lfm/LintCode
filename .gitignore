@@ -3,3 +3,7 @@
 LintCode.iml
 .idea
 target
+.classpath
+.project
+target/
+.DS_Store
