@@ -20,5 +20,4 @@ struct ListNode{
     ListNode* next;
     ListNode(int val):val(val),next(NULL){};
 };
-
 using namespace std;
